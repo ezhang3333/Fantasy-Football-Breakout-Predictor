@@ -2,8 +2,7 @@ import nfl_data_py as nfl_dp
 import nflreadpy as nfl_rp
 from data_extractors.nfl_rp_extractor import NFLReadExtractor
 
-player_stat_idxs = ['player_name', 'player_display_name', 'position', 'fantasy_points', 'fantasy_points_ppr']
-extractor = NFLReadExtractor(player_stat_idxs, [2025])
+extractor = NFLReadExtractor(2025)
 
 player_stats = extractor.load_player_stats()
 #print(player_stats.columns.tolist())
@@ -130,16 +129,10 @@ For WR
 """
 
 
-# THIS ISNT HELPFUL
-injuries = extractor.load_injuries()
-# print(injuries)
-# print(injuries.columns)
-
-
 
 opportunity = extractor.load_ff_opportunity()
-print(opportunity)
-print(opportunity.columns)
+#print(opportunity)
+#print(opportunity.columns)
 
 """ Columns for load_ff_opportunity()
 ['season', 'posteam', 'week', 'game_id', 'player_id', 'full_name', 'position', 'pass_attempt', 
@@ -175,3 +168,6 @@ print(opportunity.columns)
  'pass_two_point_conv_diff_team', 'rec_two_point_conv_diff_team', 'rush_two_point_conv_diff_team', 
  'pass_first_down_diff_team', 'rec_first_down_diff_team', 'rush_first_down_diff_team', 'pass_interception_diff_team', 'rec_interception_diff_team', 'pass_fantasy_points_diff_team', 'rec_fantasy_points_diff_team', 'rush_fantasy_points_diff_team', 'total_yards_gained_team', 'total_yards_gained_exp_team', 'total_yards_gained_diff_team', 'total_touchdown_team', 'total_touchdown_exp_team', 'total_touchdown_diff_team', 'total_first_down_team', 'total_first_down_exp_team', 'total_first_down_diff_team', 'total_fantasy_points_team', 'total_fantasy_points_exp_team', 'total_fantasy_points_diff_team']
 """
+
+
+
