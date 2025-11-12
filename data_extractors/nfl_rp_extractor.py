@@ -137,8 +137,21 @@ class NFLReadExtractor:
                 "total_fantasy_points_team","total_fantasy_points_exp_team","total_fantasy_points_diff_team"
             ],
         }
+    
+    def get_all_data(self):
+        return {
+            'player_stats': self.load_player_stats(),
+            'team_stats': self.load_team_stats(),
+            'schedules': self.load_schedules(),
+            'players': self.load_players(),
+            'rosters': self.load_rosters(),
+            'rosters_weekly': self.load_rosters_weekly(),
+            'snap_counts': self.load_snap_counts(),
+            'nextgen_stats': self.load_nextgen_stats(),
+            'ff_opportunity': self.load_ff_opportunity()
+        }
 
-    # ---- Simple loaders: fetch → to_pandas() → reindex to keep cols ----
+    # ---- Loaders ----
 
     def load_player_stats(self):
         player_stats = nfl_rp.load_player_stats(self.current_season, 'reg').to_pandas()
