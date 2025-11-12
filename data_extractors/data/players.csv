@@ -1,0 +1,488 @@
+gsis_id,display_name,first_name,last_name,short_name,football_name,position_group,position,height,weight,college_conference,rookie_season,last_season,latest_team,status,ngs_status,ngs_status_short_description,years_of_experience,pff_status,draft_year,draft_round,draft_pick,draft_team
+00-0032104,Ameer Abdullah,Ameer,Abdullah,A.Abdullah,Ameer,RB,RB,69.0,203.0,Big Ten Conference,2015,2025,IND,ACT,ACT,Active,11,A,2015.0,2.0,54.0,DET
+00-0039040,De'Von Achane,De'Von,Achane,D.Achane,Devon,RB,RB,69.0,191.0,Southeastern Conference,2023,2025,MIA,ACT,ACT,Active,3,A,2023.0,3.0,84.0,MIA
+00-0031381,Davante Adams,Davante,Adams,D.Adams,Davante,WR,WR,73.0,215.0,Mountain West Conference,2014,2025,LA,ACT,ACT,Active,12,A,2014.0,2.0,53.0,GB
+00-0038994,Jordan Addison,Jordan,Addison,J.Addison,Jordan,WR,WR,71.0,175.0,Pacific Twelve Conference,2023,2025,MIN,ACT,ACT,Active,3,A,2023.0,1.0,23.0,MIN
+00-0038783,Nate Adkins,Nathan,Adkins,N.Adkins,Nate,TE,TE,75.0,252.0,Southeastern Conference,2023,2025,DEN,ACT,ACT,Inactive,3,I,,,,
+00-0033572,Jamal Agnew,Jamal,Agnew,J.Agnew,Jamal,WR,WR,70.0,190.0,Pioneer Football League,2017,2025,ATL,ACT,ACT,Active,9,A,2017.0,5.0,165.0,DET
+00-0039796,Rasheen Ali,Rasheen,Ali,R.Ali,Rasheen,RB,RB,71.0,210.0,Sun Belt Conference,2024,2025,BAL,ACT,ACT,Active,2,I,2024.0,5.0,165.0,BAL
+00-0033217,Mo Alie-Cox,Mohamed,Alie-Cox,M.Alie-Cox,Mo,TE,TE,77.0,267.0,NO FOOTBALL,2017,2025,IND,ACT,ACT,Active,8,A,,,,
+00-0032434,Brandon Allen,Brandon,Allen,B.Allen,Brandon,QB,QB,74.0,209.0,Southeastern Conference,2016,2025,TEN,ACT,ACT,Active,9,A,2016.0,6.0,201.0,JAX
+00-0039074,Davis Allen,Davis,Allen,D.Allen,Davis,TE,TE,78.0,251.0,Atlantic Coast Conference,2023,2025,LA,ACT,ACT,Active,3,A,2023.0,5.0,175.0,LA
+00-0034857,Josh Allen,Joshua,Allen,J.Allen,Josh,QB,QB,77.0,237.0,Mountain West Conference,2018,2025,BUF,ACT,ACT,Active,8,A,2018.0,1.0,7.0,BUF
+00-0030279,Keenan Allen,Keenan,Allen,K.Allen,Keenan,WR,WR,74.0,211.0,Pacific Twelve Conference,2013,2025,LAC,ACT,ACT,Active,13,A,2013.0,3.0,76.0,LAC
+00-0034577,Kyle Allen,Kyle,Allen,K.Allen,Kyle,QB,QB,75.0,210.0,American Athletic Conference,2018,2025,DET,ACT,ACT,Active,7,A,,,,
+00-0040238,LeQuint Allen Jr.,LeQuint,Allen,L.Allen,LeQuint,RB,RB,72.0,201.0,Atlantic Coast Conference,2025,2025,JAX,ACT,ACT,Active,0,A,2025.0,7.0,236.0,JAX
+00-0037263,Tyler Allgeier,Tyler,Allgeier,T.Allgeier,Tyler,RB,RB,71.0,225.0,Independent,2022,2025,ATL,ACT,ACT,Active,4,A,2022.0,5.0,151.0,ATL
+00-0034753,Mark Andrews,Mark,Andrews,M.Andrews,Mark,TE,TE,77.0,250.0,Big Twelve Conference,2018,2025,BAL,ACT,ACT,Active,8,A,2018.0,3.0,86.0,BAL
+00-0040739,Elijah Arroyo,Elijah,Arroyo,E.Arroyo,Elijah,TE,TE,77.0,254.0,Atlantic Coast Conference,2025,2025,SEA,ACT,ACT,Active,0,A,2025.0,2.0,50.0,SEA
+00-0037837,Calvin Austin III,Calvin,Austin,C.Austin,Calvin,WR,WR,69.0,162.0,American Athletic Conference,2022,2025,PIT,ACT,ACT,Active,4,A,2022.0,4.0,138.0,PIT
+00-0040170,Elic Ayomanor,Elic,Ayomanor,E.Ayomanor,Elic,WR,WR,74.0,206.0,Atlantic Coast Conference,2025,2025,TEN,ACT,ACT,Active,0,A,2025.0,4.0,136.0,TEN
+00-0035602,Alex Bachman,Alex,Bachman,A.Bachman,Alex,WR,WR,72.0,190.0,Atlantic Coast Conference,2019,2025,LV,ACT,ACT,Active,2,A,,,,
+00-0037085,Tyler Badie,Tyler,Badie,T.Badie,Tyler,RB,RB,68.0,197.0,Southeastern Conference,2022,2025,DEN,ACT,ACT,Active,2,A,2022.0,6.0,196.0,BAL
+00-0038416,Tyson Bagent,Tyson,Bagent,T.Bagent,Tyson,QB,QB,75.0,213.0,Mountain East Conference,2023,2025,CHI,ACT,ACT,Active,3,A,,,,
+00-0036959,Michael Bandy,Michael,Bandy,M.Bandy,Michael,WR,WR,70.0,190.0,Pioneer Football League,2021,2025,DEN,ACT,ACT,Active,3,A,,,,
+00-0034844,Saquon Barkley,Saquon,Barkley,S.Barkley,Saquon,RB,RB,72.0,232.0,Big Ten Conference,2018,2025,PHI,ACT,ACT,Active,8,A,2018.0,1.0,2.0,NYG
+00-0039793,AJ Barner,AJ,Barner,A.Barner,A.J.,TE,TE,78.0,251.0,Big Ten Conference,2024,2025,SEA,ACT,ACT,Active,2,A,2024.0,4.0,121.0,SEA
+00-0036550,Rashod Bateman,Rashod,Bateman,R.Bateman,Rashod,WR,WR,73.0,193.0,Big Ten Conference,2021,2025,BAL,ACT,ACT,Active,5,A,2021.0,1.0,27.0,BAL
+00-0039458,Brenden Bates,Brenden,Bates,B.Bates,Brenden,TE,TE,77.0,255.0,Southeastern Conference,2024,2025,CLE,ACT,ACT,Active,2,I,,,,
+00-0036628,John Bates,John,Bates,J.Bates,John,TE,TE,78.0,256.0,Mountain West Conference,2021,2025,WAS,ACT,ACT,Active,5,A,2021.0,4.0,124.0,WAS
+00-0040729,Jack Bech,Jack,Bech,J.Bech,Jack,WR,WR,73.0,214.0,Big Twelve Conference,2025,2025,LV,ACT,ACT,Active,0,A,2025.0,2.0,58.0,LV
+00-0034959,Andrew Beck,Andrew,Beck,A.Beck,Andrew,RB,RB,75.0,255.0,Big Twelve Conference,2019,2025,NYJ,ACT,ACT,Active,6,A,,,,
+00-0038115,Daniel Bellinger,Daniel,Bellinger,D.Bellinger,Daniel,TE,TE,78.0,255.0,Mountain West Conference,2022,2025,NYG,ACT,ACT,Active,4,A,2022.0,4.0,112.0,NYG
+00-0039107,Stetson Bennett,Stetson,Bennett,S.Bennett,Stetson,QB,QB,71.0,190.0,Southeastern Conference,2023,2025,LA,ACT,ACT,Active,2,,2023.0,4.0,128.0,LA
+00-0034419,Braxton Berrios,Braxton,Berrios,B.Berrios,Braxton,WR,WR,69.0,185.0,Atlantic Coast Conference,2018,2025,HOU,ACT,ACT,Active,8,A,2018.0,6.0,210.0,NE
+00-0038555,Tank Bigsby,Cantavious,Bigsby,T.Bigsby,Tank,RB,RB,71.0,215.0,Southeastern Conference,2023,2025,PHI,ACT,ACT,Active,3,A,2023.0,3.0,88.0,JAX
+00-0040586,Jaydon Blue,Jaydon,Blue,J.Blue,Jaydon,RB,RB,69.0,198.0,Southeastern Conference,2025,2025,DAL,ACT,ACT,Active,0,A,2025.0,5.0,149.0,DAL
+00-0038752,Jake Bobo,Jake,Bobo,J.Bobo,Jake,WR,WR,76.0,207.0,Pacific Twelve Conference,2023,2025,SEA,ACT,ACT,Active,3,I,,,,
+00-0040782,Isaiah Bond,Isaiah,Bond,I.Bond,Isaiah,WR,WR,71.0,180.0,Southeastern Conference,2025,2025,CLE,ACT,ACT,Active,0,I,,,,
+00-0033307,Kendrick Bourne,Kendrick,Bourne,K.Bourne,Kendrick,WR,WR,73.0,205.0,Big Sky Conference,2017,2025,SF,ACT,ACT,Active,9,A,,,,
+00-0038608,Kayshon Boutte,Kayshon,Boutte,K.Boutte,Kayshon,WR,WR,71.0,197.0,Southeastern Conference,2023,2025,NE,ACT,ACT,Active,3,I,2023.0,6.0,187.0,NE
+00-0039338,Brock Bowers,Brock,Bowers,B.Bowers,Brock,TE,TE,75.0,235.0,Southeastern Conference,2024,2025,LV,ACT,ACT,Active,2,A,2024.0,1.0,13.0,LV
+00-0031237,Teddy Bridgewater,Theodore,Bridgewater,T.Bridgewater,Teddy,QB,QB,74.0,210.0,American Athletic Conference,2014,2025,TB,ACT,ACT,Active,11,A,2014.0,1.0,32.0,MIN
+00-0033119,Jacoby Brissett,Jacoby,Brissett,J.Brissett,Jacoby,QB,QB,76.0,235.0,Atlantic Coast Conference,2016,2025,ARI,ACT,ACT,Active,10,A,2016.0,3.0,91.0,NE
+00-0039603,British Brooks,British,Brooks,B.Brooks,British,RB,RB,71.0,225.0,Atlantic Coast Conference,2024,2025,HOU,ACT,ACT,Active,2,A,,,,
+00-0038685,Chris Brooks,Christopher,Brooks,C.Brooks,Christopher,RB,RB,73.0,219.0,Big Twelve Conference,2023,2025,GB,ACT,ACT,Active,3,A,,,,
+00-0040208,Tahj Brooks,Tahj,Brooks,T.Brooks,Tahj,RB,RB,69.0,220.0,Big Twelve Conference,2025,2025,CIN,ACT,ACT,Active,0,A,2025.0,6.0,193.0,CIN
+00-0040494,Max Brosmer,Max,Brosmer,M.Brosmer,Max,QB,QB,74.0,217.0,Big Ten Conference,2025,2025,MIN,ACT,ACT,Active,0,A,,,,
+00-0035676,A.J. Brown,Arthur,Brown,A.Brown,A.J.,WR,WR,73.0,226.0,Southeastern Conference,2019,2025,PHI,ACT,ACT,Active,7,A,2019.0,2.0,51.0,TEN
+00-0038597,Chase Brown,Chase,Brown,C.Brown,Chase,RB,RB,70.0,211.0,Big Ten Conference,2023,2025,CIN,ACT,ACT,Active,3,A,2023.0,5.0,163.0,CIN
+00-0036626,Dyami Brown,Dyami,Brown,D.Brown,Dyami,WR,WR,72.0,195.0,Atlantic Coast Conference,2021,2025,JAX,ACT,ACT,Active,5,A,2021.0,3.0,82.0,WAS
+00-0035662,Marquise Brown,Marquise,Brown,M.Brown,Marquise,WR,WR,69.0,180.0,Big Twelve Conference,2019,2025,KC,ACT,ACT,Active,7,A,2019.0,1.0,25.0,BAL
+00-0035100,Jake Browning,Jake,Browning,J.Browning,Jake,QB,QB,74.0,210.0,Pacific Twelve Conference,2019,2025,CIN,ACT,ACT,Active,3,A,,,,
+00-0036232,Harrison Bryant,Harrison,Bryant,H.Bryant,Harrison,TE,TE,77.0,230.0,Conference USA,2020,2025,HOU,ACT,ACT,Active,6,A,2020.0,4.0,115.0,CLE
+00-0040134,Pat Bryant,Patrick,Bryant,P.Bryant,Pat,WR,WR,75.0,200.0,Big Ten Conference,2025,2025,DEN,ACT,ACT,Active,0,A,2025.0,3.0,74.0,DEN
+00-0040735,Luther Burden III,Luther,Burden,L.Burden,Luther,WR,WR,72.0,210.0,Southeastern Conference,2025,2025,CHI,ACT,ACT,Active,0,A,2025.0,2.0,39.0,CHI
+00-0037742,Treylon Burks,Treylon,Burks,T.Burks,Treylon,WR,WR,74.0,225.0,Southeastern Conference,2022,2025,WAS,ACT,ACT,Active,4,A,2022.0,1.0,18.0,TEN
+00-0039810,Jermaine Burton,Jermaine,Burton,J.Burton,Jermaine,WR,WR,72.0,204.0,Southeastern Conference,2024,2025,CIN,ACT,ACT,Active,2,A,2024.0,3.0,80.0,CIN
+00-0037086,Grant Calcaterra,Grant,Calcaterra,G.Calcaterra,Grant,TE,TE,76.0,240.0,American Athletic Conference,2022,2025,PHI,ACT,ACT,Active,4,A,2022.0,6.0,198.0,PHI
+00-0036924,Michael Carter,Michael,Carter,M.Carter,Michael,RB,RB,68.0,201.0,Atlantic Coast Conference,2021,2025,ARI,ACT,ACT,Active,4,A,,,,
+00-0040547,Nate Carter,Nate,Carter,N.Carter,Nate,RB,RB,70.0,202.0,Big Ten Conference,2025,2025,ATL,ACT,ACT,Active,0,A,,,,
+00-0039165,Zach Charbonnet,Zachariah,Charbonnet,Z.Charbonnet,Zach,RB,RB,73.0,214.0,Pacific Twelve Conference,2023,2025,SEA,ACT,ACT,Active,3,A,2023.0,2.0,52.0,SEA
+00-0036900,Ja'Marr Chase,Ja'Marr,Chase,J.Chase,Ja'Marr,WR,WR,72.0,205.0,Southeastern Conference,2021,2025,CIN,ACT,ACT,Active,5,A,2021.0,1.0,5.0,CIN
+00-0037594,Julius Chestnut,Julius,Chestnut,J.Chestnut,Julius,RB,RB,71.0,228.0,Northeast Conference,2022,2025,TEN,ACT,ACT,Active,4,A,,,,
+00-0040563,Efton Chism III,Efton,Chism,E.Chism,Efton,WR,WR,70.0,198.0,Big Sky Conference,2025,2025,NE,ACT,ACT,Active,0,A,,,,
+00-0034791,Nick Chubb,Nicholas,Chubb,N.Chubb,Nick,RB,RB,71.0,227.0,Southeastern Conference,2018,2025,HOU,ACT,ACT,Active,8,A,2018.0,2.0,35.0,CLE
+00-0038391,Sean Clifford,Sean,Clifford,S.Clifford,Sean,QB,QB,74.0,217.0,Big Ten Conference,2023,2025,CIN,ACT,ACT,Active,2,P,2023.0,5.0,149.0,GB
+00-0039491,Jalen Coker,Jalen,Coker,J.Coker,Jalen,WR,WR,75.0,213.0,Patriot League,2024,2025,CAR,ACT,ACT,Active,2,A,,,,
+00-0039901,Keon Coleman,Keon,Coleman,K.Coleman,Keon,WR,WR,76.0,215.0,Atlantic Coast Conference,2024,2025,BUF,ACT,ACT,Active,2,A,2024.0,2.0,33.0,BUF
+00-0036554,Nico Collins,Nico,Collins,N.Collins,Nico,WR,WR,76.0,222.0,Big Ten Conference,2021,2025,HOU,ACT,ACT,Active,5,A,2021.0,3.0,89.0,HOU
+00-0034270,Tyler Conklin,Tyler,Conklin,T.Conklin,Tyler,TE,TE,75.0,248.0,Mid-American Conference,2018,2025,LAC,ACT,ACT,Active,8,A,2018.0,5.0,157.0,MIN
+00-0037248,James Cook,James,Cook,J.Cook,James,RB,RB,71.0,190.0,Southeastern Conference,2022,2025,BUF,ACT,ACT,Active,4,A,2022.0,2.0,63.0,BUF
+00-0031236,Brandin Cooks,Brandin,Cooks,B.Cooks,Brandin,WR,WR,70.0,190.0,Pacific Twelve Conference,2014,2025,NO,ACT,ACT,Active,12,A,2014.0,1.0,20.0,NO
+00-0040024,Darius Cooper,Darius,Cooper,D.Cooper,Darius,WR,WR,71.0,210.0,United Athletic Conference,2025,2025,PHI,ACT,ACT,Active,0,A,,,,
+00-0039920,Malachi Corley,Malachi,Corley,M.Corley,Malachi,WR,WR,71.0,215.0,Conference USA,2024,2025,CLE,ACT,ACT,Active,2,A,2024.0,3.0,65.0,NYJ
+00-0039738,Blake Corum,Blake,Corum,B.Corum,Blake,RB,RB,68.0,210.0,Big Ten Conference,2024,2025,LA,ACT,ACT,Active,2,A,2024.0,3.0,83.0,LA
+00-0029604,Kirk Cousins,Kirk,Cousins,K.Cousins,Kirk,QB,QB,75.0,205.0,Big Ten Conference,2012,2025,ATL,ACT,ACT,Active,14,A,2012.0,4.0,102.0,WAS
+00-0040242,Jacory Croskey-Merritt,Jacory,Croskey-Merritt,J.Croskey-Merritt,Jacory,RB,RB,71.0,208.0,Big Twelve Conference,2025,2025,WAS,ACT,ACT,Active,0,A,2025.0,7.0,245.0,WAS
+00-0039754,Devin Culp,Devin,Culp,D.Culp,Devin,TE,TE,76.0,237.0,Pacific Twelve Conference,2024,2025,TB,ACT,ACT,Active,2,A,2024.0,7.0,246.0,TB
+00-0027973,Andy Dalton,Andrew,Dalton,A.Dalton,Andy,QB,QB,74.0,220.0,Mountain West Conference,2011,2025,CAR,ACT,ACT,Active,15,A,2011.0,2.0,35.0,CIN
+00-0039910,Jayden Daniels,Jayden,Daniels,J.Daniels,Jayden,QB,QB,76.0,210.0,Southeastern Conference,2024,2025,WAS,ACT,ACT,Active,2,I,2024.0,1.0,2.0,WAS
+00-0034869,Sam Darnold,Sam,Darnold,,,QB,QB,75.0,225.0,,2018,2025,SEA,ACT,,,8,A,2018.0,1.0,3.0,NYJ
+00-0040691,Jaxson Dart,Jaxson,Dart,J.Dart,Jaxson,QB,QB,74.0,223.0,Southeastern Conference,2025,2025,NYG,ACT,ACT,Active,0,A,2025.0,1.0,25.0,NYG
+00-0038573,Derius Davis,Derius,Davis,D.Davis,Derius,WR,WR,68.0,165.0,Big Twelve Conference,2023,2025,LAC,ACT,ACT,Active,3,A,2023.0,4.0,125.0,LAC
+00-0039798,Isaiah Davis,Isaiah,Davis,I.Davis,Isaiah,RB,RB,73.0,220.0,Missouri Valley Football Conference,2024,2025,NYJ,ACT,ACT,Active,2,A,2024.0,5.0,173.0,NYJ
+00-0039875,Ray Davis,Re'Mahn,Davis,R.Davis,Ray,RB,RB,68.0,220.0,Southeastern Conference,2024,2025,BUF,ACT,ACT,Active,2,A,2024.0,4.0,128.0,BUF
+00-0038476,Tommy DeVito,Thomas,DeVito,T.DeVito,Tommy,QB,QB,74.0,210.0,Big Ten Conference,2023,2025,NE,ACT,ACT,Active,3,A,,,,
+00-0036332,Josiah Deguara,Josiah,Deguara,J.Deguara,Josiah,TE,TE,74.0,240.0,American Athletic Conference,2020,2025,ARI,ACT,ACT,Active,5,A,2020.0,3.0,94.0,GB
+00-0038705,Emari Demercado,Emari,Demercado,E.Demercado,Emari,RB,RB,69.0,215.0,Big Twelve Conference,2023,2025,ARI,ACT,ACT,Active,3,A,,,,
+00-0031588,Stefon Diggs,Stefon,Diggs,S.Diggs,Stefon,WR,WR,72.0,191.0,Big Ten Conference,2015,2025,NE,ACT,ACT,Active,11,A,2015.0,5.0,146.0,MIN
+00-0040705,Chimere Dike,Chimere,Dike,C.Dike,Chimere,WR,WR,73.0,196.0,Southeastern Conference,2025,2025,TEN,ACT,ACT,Active,0,A,2025.0,4.0,103.0,TEN
+00-0036265,AJ Dillon,Algiers,Dillon,A.Dillon,A.J.,RB,RB,72.0,247.0,Atlantic Coast Conference,2020,2025,PHI,ACT,ACT,Active,6,I,2020.0,2.0,62.0,GB
+00-0034159,Will Dissly,William,Dissly,W.Dissly,Will,TE,TE,76.0,265.0,Pacific Twelve Conference,2018,2025,LAC,ACT,ACT,Active,8,I,2018.0,4.0,120.0,SEA
+00-0036158,J.K. Dobbins,J.K.,Dobbins,J.Dobbins,J.K.,RB,RB,70.0,212.0,Big Ten Conference,2020,2025,DEN,ACT,ACT,Active,6,A,2020.0,2.0,55.0,BAL
+00-0033949,Joshua Dobbs,Robert,Dobbs,J.Dobbs,Joshua,QB,QB,75.0,220.0,Southeastern Conference,2017,2025,NE,ACT,ACT,Active,9,A,2017.0,4.0,135.0,PIT
+00-0035500,Greg Dortch,Greg,Dortch,G.Dortch,Greg,WR,WR,67.0,180.0,Atlantic Coast Conference,2019,2025,ARI,ACT,ACT,Active,5,A,,,,
+00-0037741,Jahan Dotson,Jahan,Dotson,J.Dotson,Jahan,WR,WR,71.0,184.0,Big Ten Conference,2022,2025,PHI,ACT,ACT,Active,4,A,2022.0,1.0,16.0,WAS
+00-0037816,Romeo Doubs,Romeo,Doubs,R.Doubs,Romeo,WR,WR,74.0,204.0,Mountain West Conference,2022,2025,GB,ACT,ACT,Active,4,A,2022.0,4.0,132.0,GB
+00-0038621,DeMario Douglas,DeMario,Douglas,D.Douglas,Demario,WR,WR,68.0,192.0,Independent,2023,2025,NE,ACT,ACT,Active,3,A,2023.0,6.0,210.0,NE
+00-0036139,Rico Dowdle,Rico,Dowdle,R.Dowdle,Rico,RB,RB,72.0,215.0,Southeastern Conference,2020,2025,CAR,ACT,ACT,Active,6,A,,,,
+00-0038997,Josh Downs,Josh,Downs,J.Downs,Josh,WR,WR,69.0,171.0,Atlantic Coast Conference,2023,2025,IND,ACT,ACT,Active,3,A,2023.0,3.0,79.0,IND
+00-0037252,Greg Dulcich,Gregory,Dulcich,G.Dulcich,Greg,TE,TE,76.0,245.0,Pacific Twelve Conference,2022,2025,MIA,ACT,ACT,Active,4,A,2022.0,3.0,80.0,DEN
+00-0035021,Ashton Dulin,Ashton,Dulin,A.Dulin,Ashton,WR,WR,74.0,215.0,Great Lakes Intercollegiate Athletic Conference,2019,2025,IND,ACT,ACT,Active,7,A,,,,
+00-0039050,Payne Durham,William,Durham,P.Durham,Payne,TE,TE,77.0,255.0,Big Ten Conference,2023,2025,TB,ACT,ACT,Active,3,A,2023.0,5.0,171.0,TB
+00-0036331,Devin Duvernay,Devin,Duvernay,D.Duvernay,Devin,WR,WR,71.0,202.0,Big Twelve Conference,2020,2025,CHI,ACT,ACT,Active,6,A,2020.0,3.0,92.0,BAL
+00-0034073,Ross Dwelley,Ross,Dwelley,R.Dwelley,Ross,TE,TE,77.0,235.0,Pioneer Football League,2018,2025,DET,ACT,ACT,Active,8,A,,,,
+00-0040129,Emeka Egbuka,Emeka,Egbuka,E.Egbuka,Emeka,WR,WR,73.0,205.0,Big Ten Conference,2025,2025,TB,ACT,ACT,Active,0,A,2025.0,1.0,19.0,TB
+00-0033881,Evan Engram,Evan,Engram,E.Engram,Evan,TE,TE,75.0,240.0,Southeastern Conference,2017,2025,DEN,ACT,ACT,Active,9,A,2017.0,1.0,23.0,NYG
+00-0030061,Zach Ertz,Zachary,Ertz,Z.Ertz,Zach,TE,TE,77.0,250.0,Pacific Twelve Conference,2013,2025,WAS,ACT,ACT,Active,13,A,2013.0,2.0,35.0,PHI
+00-0036620,Dee Eskridge,D'Wayne,Eskridge,D.Eskridge,D'Wayne,WR,WR,69.0,190.0,Mid-American Conference,2021,2025,MIA,ACT,ACT,Active,5,I,2021.0,2.0,56.0,SEA
+00-0039373,Audric Estimé,Audric,Estime,A.Estime,Audric,RB,RB,71.0,227.0,Independent,2024,2025,NO,ACT,ACT,Active,2,A,2024.0,5.0,147.0,DEN
+00-0036973,Travis Etienne,Travis,Etienne,T.Etienne,Travis,RB,RB,70.0,215.0,Atlantic Coast Conference,2021,2025,JAX,ACT,ACT,Active,5,A,2021.0,1.0,25.0,JAX
+00-0040644,Trevor Etienne,Trevor,Etienne,T.Etienne,Trevor,RB,RB,68.0,198.0,Southeastern Conference,2025,2025,CAR,ACT,ACT,Active,0,A,2025.0,4.0,114.0,CAR
+00-0040187,Mitchell Evans,Mitchell,Evans,M.Evans,Mitchell,TE,TE,77.0,258.0,Independent,2025,2025,CAR,ACT,ACT,Active,0,A,2025.0,5.0,163.0,CAR
+00-0040234,Quinn Ewers,Quinn,Ewers,Q.Ewers,Quinn,QB,QB,74.0,209.0,Southeastern Conference,2025,2025,MIA,ACT,ACT,Active,0,I,2025.0,7.0,231.0,MIA
+00-0040663,Harold Fannin Jr.,Harold,Fannin,H.Fannin,Harold,TE,TE,76.0,241.0,Mid-American Conference,2025,2025,CLE,ACT,ACT,Active,0,A,2025.0,3.0,67.0,CLE
+00-0035644,Noah Fant,Noah,Fant,N.Fant,Noah,TE,TE,76.0,249.0,Big Ten Conference,2019,2025,CIN,ACT,ACT,Active,7,A,2019.0,1.0,20.0,DEN
+00-0036887,Luke Farrell,Luke,Farrell,L.Farrell,Luke,TE,TE,77.0,250.0,Big Ten Conference,2021,2025,SF,ACT,ACT,Active,5,A,2021.0,5.0,145.0,JAX
+00-0036646,Simi Fehoko,Simione,Fehoko,S.Fehoko,Simi,WR,WR,76.0,218.0,Pacific Twelve Conference,2021,2025,ARI,ACT,ACT,Active,5,A,2021.0,5.0,179.0,DAL
+00-0040154,Tai Felton,Tai,Felton,T.Felton,Tai,WR,WR,73.0,186.0,Big Ten Conference,2025,2025,MIN,ACT,ACT,Active,0,A,2025.0,3.0,102.0,MIN
+00-0038041,Jake Ferguson,Jake,Ferguson,J.Ferguson,Jake,TE,TE,77.0,244.0,Big Ten Conference,2022,2025,DAL,ACT,ACT,Active,4,A,2022.0,4.0,129.0,DAL
+00-0040737,Terrance Ferguson,Terrance,Ferguson,T.Ferguson,Terrance,TE,TE,77.0,255.0,Big Ten Conference,2025,2025,LA,ACT,ACT,Active,0,A,2025.0,2.0,46.0,LA
+00-0040225,Thomas Fidone II,Thomas,Fidone,T.Fidone,Thomas,TE,TE,78.0,255.0,Big Ten Conference,2025,2025,NYG,ACT,ACT,Active,0,A,2025.0,7.0,219.0,NYG
+00-0036945,Justin Fields,Justin,Fields,J.Fields,Justin,QB,QB,75.0,227.0,Big Ten Conference,2021,2025,NYJ,ACT,ACT,Active,5,A,2021.0,1.0,11.0,CHI
+00-0037654,Tucker Fisk,Tucker,Fisk,T.Fisk,Tucker,TE,TE,76.0,285.0,Pacific Twelve Conference,2022,2025,LAC,ACT,ACT,Active,2,A,,,,
+00-0037306,John FitzPatrick,John,FitzPatrick,J.FitzPatrick,John,TE,TE,79.0,262.0,Southeastern Conference,2022,2025,GB,ACT,ACT,Active,4,A,2022.0,6.0,213.0,ATL
+00-0026158,Joe Flacco,Joseph,Flacco,J.Flacco,Joe,QB,QB,78.0,245.0,Colonial Athletic Association,2008,2025,CIN,ACT,ACT,Active,18,A,2008.0,1.0,18.0,BAL
+00-0039410,Ryan Flournoy,Ryan,Flournoy,R.Flournoy,Ryan,WR,WR,73.0,205.0,Big South - Ohio Valley Conference,2024,2025,DAL,ACT,ACT,Active,2,A,2024.0,6.0,216.0,DAL
+00-0039064,Zay Flowers,Xavien,Flowers,Z.Flowers,Zay,WR,WR,69.0,183.0,Atlantic Coast Conference,2023,2025,BAL,ACT,ACT,Active,3,A,2023.0,1.0,22.0,BAL
+00-0037267,Jerome Ford,Jerome,Ford,J.Ford,Jerome,RB,RB,70.0,210.0,American Athletic Conference,2022,2025,CLE,ACT,ACT,Active,4,A,2022.0,5.0,156.0,CLE
+00-0039868,Troy Franklin,Troy,Franklin,T.Franklin,Troy,WR,WR,75.0,180.0,Pacific Twelve Conference,2024,2025,DEN,ACT,ACT,Active,2,A,2024.0,4.0,102.0,DEN
+00-0036825,Feleipe Franks,Feleipe,Franks,F.Franks,Feleipe,TE,TE,78.0,241.0,Southeastern Conference,2021,2025,ATL,ACT,ACT,Active,3,A,,,,
+00-0036894,Pat Freiermuth,Patrick,Freiermuth,P.Freiermuth,Pat,TE,TE,77.0,258.0,Big Ten Conference,2021,2025,PIT,ACT,ACT,Active,5,A,2021.0,2.0,55.0,PIT
+00-0040704,Dillon Gabriel,Dillon,Gabriel,D.Gabriel,Dillon,QB,QB,71.0,205.0,Big Ten Conference,2025,2025,CLE,ACT,ACT,Active,0,A,2025.0,3.0,94.0,CLE
+00-0040189,Oronde Gadsden II,Oronde,Gadsden,O.Gadsden,Oronde,TE,TE,77.0,236.0,Atlantic Coast Conference,2025,2025,LAC,ACT,ACT,Active,0,A,2025.0,5.0,165.0,LAC
+00-0036919,Kenneth Gainwell,Kenneth,Gainwell,K.Gainwell,Kenneth,RB,RB,69.0,200.0,American Athletic Conference,2021,2025,PIT,ACT,ACT,Active,5,A,2021.0,5.0,150.0,PHI
+00-0031345,Jimmy Garoppolo,James,Garoppolo,J.Garoppolo,Jimmy,QB,QB,74.0,225.0,Ohio Valley Conference,2014,2025,LA,ACT,ACT,Active,12,A,2014.0,2.0,62.0,NE
+00-0039139,Jahmyr Gibbs,Jahmyr,Gibbs,J.Gibbs,Jahmyr,RB,RB,69.0,202.0,Southeastern Conference,2023,2025,DET,ACT,ACT,Active,3,A,2023.0,1.0,12.0,DET
+00-0040179,DJ Giddens,DJ,Giddens,D.Giddens,D.J.,RB,RB,73.0,212.0,Big Twelve Conference,2025,2025,IND,ACT,ACT,Active,0,I,2025.0,5.0,151.0,IND
+00-0038496,Xavier Gipson,Xavier,Gipson,X.Gipson,Xavier,WR,WR,69.0,189.0,Southland Conference,2023,2025,PHI,ACT,ACT,Active,3,A,,,,
+00-0033921,Chris Godwin Jr.,Rod,Godwin,C.Godwin,Chris,WR,WR,73.0,209.0,Big Ten Conference,2017,2025,TB,ACT,ACT,Active,9,I,2017.0,3.0,84.0,TB
+00-0034351,Dallas Goedert,Dallas,Goedert,D.Goedert,Dallas,TE,TE,77.0,256.0,Missouri Valley Football Conference,2018,2025,PHI,ACT,ACT,Active,8,A,2018.0,2.0,49.0,PHI
+00-0033106,Jared Goff,Jared,Goff,J.Goff,Jared,QB,QB,76.0,217.0,Pacific Twelve Conference,2016,2025,DET,ACT,ACT,Active,10,A,2016.0,1.0,1.0,LA
+00-0040667,Matthew Golden,Matthew,Golden,M.Golden,Matthew,WR,WR,71.0,191.0,Southeastern Conference,2025,2025,GB,ACT,ACT,Active,0,I,2025.0,1.0,23.0,GB
+00-0037120,Tyler Goodson,Tyler,Goodson,T.Goodson,Tyler,RB,RB,69.0,197.0,Big Ten Conference,2022,2025,IND,ACT,ACT,Active,3,A,,,,
+00-0040198,Ollie Gordon II,Ollie,Gordon,O.Gordon,Ollie,RB,RB,74.0,225.0,Big Twelve Conference,2025,2025,MIA,ACT,ACT,Active,0,A,2025.0,6.0,179.0,MIA
+00-0039816,Anthony Gould,Anthony,Gould,A.Gould,Anthony,WR,WR,68.0,174.0,Pacific Twelve Conference,2024,2025,IND,ACT,ACT,Active,2,I,2024.0,5.0,142.0,IND
+00-0039631,Cam Grandy,Cam,Grandy,C.Grandy,Cam,TE,TE,77.0,253.0,Missouri Valley Football Conference,2024,2025,CIN,ACT,ACT,Active,2,A,,,,
+00-0036876,Kylen Granson,Kylen,Granson,K.Granson,Kylen,TE,TE,75.0,242.0,American Athletic Conference,2021,2025,PHI,ACT,ACT,Active,5,A,2021.0,4.0,127.0,IND
+00-0036637,Noah Gray,Noah,Gray,N.Gray,Noah,TE,TE,75.0,240.0,Atlantic Coast Conference,2021,2025,KC,ACT,ACT,Active,5,A,2021.0,5.0,162.0,KC
+00-0039363,Isaac Guerendo,Isaac,Guerendo,I.Guerendo,Isaac,RB,RB,72.0,221.0,Atlantic Coast Conference,2024,2025,SF,ACT,ACT,Active,2,A,2024.0,4.0,129.0,SF
+00-0038120,Breece Hall,Breece,Hall,B.Hall,Breece,RB,RB,71.0,217.0,Big Twelve Conference,2022,2025,NYJ,ACT,ACT,Active,4,A,2022.0,2.0,36.0,NYJ
+00-0040727,Tre Harris,Cleveland,Harris,T.Harris,Tre,WR,WR,75.0,210.0,Southeastern Conference,2025,2025,LAC,ACT,ACT,Active,0,A,2025.0,2.0,55.0,LAC
+00-0039849,Marvin Harrison Jr.,Marvin,Harrison,M.Harrison,Marvin,WR,WR,75.0,220.0,Big Ten Conference,2024,2025,ARI,ACT,ACT,Active,2,A,2024.0,1.0,4.0,ARI
+00-0040730,RJ Harvey,Robert,Harvey,R.Harvey,R.J.,RB,RB,69.0,205.0,Big Twelve Conference,2025,2025,DEN,ACT,ACT,Active,0,A,2025.0,2.0,60.0,DEN
+00-0040194,Jackson Hawes,Jackson,Hawes,J.Hawes,Jackson,TE,TE,76.0,253.0,Atlantic Coast Conference,2025,2025,BUF,ACT,ACT,Active,0,A,2025.0,5.0,173.0,BUF
+00-0038465,Malik Heath,Malik,Heath,M.Heath,Malik,WR,WR,74.0,213.0,Southeastern Conference,2023,2025,GB,ACT,ACT,Active,3,A,,,,
+00-0040584,Gunnar Helm,Gunnar,Helm,G.Helm,Gunnar,TE,TE,77.0,241.0,Southeastern Conference,2025,2025,TEN,ACT,ACT,Active,0,A,2025.0,4.0,120.0,TEN
+00-0040734,TreVeyon Henderson,TreVeyon,Henderson,T.Henderson,TreVeyon,RB,RB,70.0,202.0,Big Ten Conference,2025,2025,NE,ACT,ACT,Active,0,A,2025.0,2.0,38.0,NE
+00-0032764,Derrick Henry,Derrick,Henry,D.Henry,Derrick,RB,RB,75.0,252.0,Southeastern Conference,2016,2025,BAL,ACT,ACT,Active,10,A,2016.0,2.0,45.0,TEN
+00-0033090,Hunter Henry,Hunter,Henry,H.Henry,Hunter,TE,TE,77.0,249.0,Southeastern Conference,2016,2025,NE,ACT,ACT,Active,10,A,2016.0,2.0,35.0,LAC
+00-0036355,Justin Herbert,Justin,Herbert,J.Herbert,Justin,QB,QB,78.0,236.0,Pacific Twelve Conference,2020,2025,LAC,ACT,ACT,Active,6,A,2020.0,1.0,6.0,LAC
+00-0036906,Khalil Herbert,Khalil,Herbert,K.Herbert,Khalil,RB,RB,69.0,212.0,Atlantic Coast Conference,2021,2025,NYJ,ACT,ACT,Active,5,A,2021.0,6.0,217.0,CHI
+00-0037304,Connor Heyward,Connor,Heyward,C.Heyward,Connor,TE,TE,72.0,230.0,Big Ten Conference,2022,2025,PIT,ACT,ACT,Active,4,A,2022.0,6.0,208.0,PIT
+00-0033110,Tyler Higbee,Tyler,Higbee,T.Higbee,Tyler,TE,TE,78.0,255.0,Conference USA,2016,2025,LA,ACT,ACT,Active,10,A,2016.0,4.0,110.0,LA
+00-0039041,Elijah Higgins,Elijah,Higgins,E.Higgins,Elijah,TE,TE,75.0,245.0,Pacific Twelve Conference,2023,2025,ARI,ACT,ACT,Active,3,A,2023.0,6.0,197.0,MIA
+00-0040130,Jayden Higgins,Jayden,Higgins,J.Higgins,Jayden,WR,WR,76.0,215.0,Big Twelve Conference,2025,2025,HOU,ACT,ACT,Active,0,A,2025.0,2.0,34.0,HOU
+00-0036410,Tee Higgins,Tamurice,Higgins,T.Higgins,Tee,WR,WR,76.0,219.0,Atlantic Coast Conference,2020,2025,CIN,ACT,ACT,Active,6,A,2020.0,2.0,33.0,CIN
+00-0038720,Julian Hill,Julian,Hill,J.Hill,Julian,TE,TE,76.0,251.0,Pioneer Football League,2023,2025,MIA,ACT,ACT,Active,3,I,,,,
+00-0034975,Justice Hill,Justice,Hill,J.Hill,Justice,RB,RB,70.0,205.0,Big Twelve Conference,2019,2025,BAL,ACT,ACT,Active,7,A,2019.0,4.0,113.0,BAL
+00-0033357,Taysom Hill,Taysom,Hill,T.Hill,Taysom,TE,TE,74.0,221.0,Independent,2017,2025,NO,ACT,ACT,Active,9,A,,,,
+00-0035229,T.J. Hockenson,Thomas,Hockenson,T.Hockenson,T.J.,TE,TE,77.0,248.0,Big Ten Conference,2019,2025,MIN,ACT,ACT,Active,7,A,2019.0,1.0,8.0,DET
+00-0034854,KhaDarel Hodge,KhaDarel,Hodge,K.Hodge,KhaDarel,WR,WR,74.0,210.0,Southwestern Athletic Conference,2018,2025,ATL,ACT,ACT,Active,8,A,,,,
+00-0039299,George Holani,George,Holani,G.Holani,George,RB,RB,70.0,210.0,Mountain West Conference,2024,2025,SEA,ACT,ACT,Active,2,A,,,,
+00-0033555,Mack Hollins,Mackenzie,Hollins,M.Hollins,Mack,WR,WR,76.0,221.0,Atlantic Coast Conference,2017,2025,NE,ACT,ACT,Active,9,A,2017.0,4.0,118.0,PHI
+00-0035594,Travis Homer,Travis,Homer,T.Homer,Travis,RB,RB,70.0,211.0,Atlantic Coast Conference,2019,2025,CHI,ACT,ACT,Active,7,A,2019.0,6.0,204.0,SEA
+00-0032392,Austin Hooper,Austin,Hooper,A.Hooper,Austin,TE,TE,76.0,254.0,Pacific Twelve Conference,2016,2025,NE,ACT,ACT,Active,10,A,2016.0,3.0,81.0,ATL
+00-0030564,DeAndre Hopkins,DeAndre,Hopkins,D.Hopkins,DeAndre,WR,WR,73.0,210.0,Atlantic Coast Conference,2013,2025,BAL,ACT,ACT,Active,13,A,2013.0,1.0,27.0,HOU
+00-0040218,Jimmy Horn Jr.,Jimmy,Horn,J.Horn,Jimmy,WR,WR,68.0,174.0,Big Twelve Conference,2025,2025,CAR,ACT,ACT,Active,0,A,2025.0,6.0,208.0,CAR
+00-0040648,Tory Horton,Tory,Horton,T.Horton,Tory,WR,WR,74.0,196.0,Mountain West Conference,2025,2025,SEA,ACT,ACT,Active,0,I,2025.0,5.0,166.0,SEA
+00-0037077,Sam Howell,Sam,Howell,S.Howell,Sam,QB,QB,73.0,220.0,Atlantic Coast Conference,2022,2025,PHI,ACT,ACT,Active,4,A,2022.0,5.0,144.0,WAS
+00-0036555,Chuba Hubbard,Chuba,Hubbard,C.Hubbard,Chuba,RB,RB,73.0,210.0,Big Twelve Conference,2021,2025,CAR,ACT,ACT,Active,5,A,2021.0,4.0,126.0,CAR
+00-0034613,Tanner Hudson,Tanner,Hudson,T.Hudson,Tanner,TE,TE,77.0,241.0,Great American Conference,2018,2025,CIN,ACT,ACT,Active,6,A,,,,
+00-0033923,Kareem Hunt,Kareem,Hunt,K.Hunt,Kareem,RB,RB,71.0,216.0,Mid-American Conference,2017,2025,KC,ACT,ACT,Active,9,A,2017.0,3.0,86.0,KC
+00-0040692,Jarquez Hunter,Jarquez,Hunter,J.Hunter,Jarquez,RB,RB,70.0,209.0,Southeastern Conference,2025,2025,LA,ACT,ACT,Active,0,,2025.0,4.0,117.0,LA
+00-0035993,Tyler Huntley,Tyler,Huntley,T.Huntley,Tyler,QB,QB,73.0,204.0,Pacific Twelve Conference,2020,2025,BAL,ACT,ACT,Active,6,A,,,,
+00-0036389,Jalen Hurts,Jalen,Hurts,J.Hurts,Jalen,QB,QB,73.0,223.0,Big Twelve Conference,2020,2025,PHI,ACT,ACT,Active,6,A,2020.0,2.0,53.0,PHI
+00-0038618,Xavier Hutchinson,Xavier,Hutchinson,X.Hutchinson,Xavier,WR,WR,75.0,210.0,Big Twelve Conference,2023,2025,HOU,ACT,ACT,Active,3,A,2023.0,6.0,205.0,HOU
+00-0038938,Jalin Hyatt,Jalin,Hyatt,J.Hyatt,Jalin,WR,WR,72.0,185.0,Southeastern Conference,2023,2025,NYG,ACT,ACT,Active,3,A,2023.0,3.0,73.0,NYG
+00-0038619,Andrei Iosivas,Andrei,Iosivas,A.Iosivas,Andrei,WR,WR,75.0,210.0,Ivy League,2023,2025,CIN,ACT,ACT,Active,3,A,2023.0,6.0,206.0,CIN
+00-0039361,Bucky Irving,Mar'Keise,Irving,B.Irving,Bucky,RB,RB,70.0,194.0,Pacific Twelve Conference,2024,2025,TB,ACT,ACT,Active,2,I,2024.0,4.0,125.0,TB
+00-0034796,Lamar Jackson,Lamar,Jackson,L.Jackson,Lamar,QB,QB,74.0,205.0,Atlantic Coast Conference,2018,2025,BAL,ACT,ACT,Active,8,A,2018.0,1.0,32.0,BAL
+00-0035700,Josh Jacobs,Joshua,Jacobs,J.Jacobs,Josh,RB,RB,70.0,223.0,Southeastern Conference,2019,2025,GB,ACT,ACT,Active,7,A,2019.0,1.0,24.0,LV
+00-0040177,Jordan James,Jordan,James,J.James,Jordan,RB,RB,69.0,208.0,Big Ten Conference,2025,2025,SF,ACT,ACT,Active,0,,2025.0,5.0,147.0,SF
+00-0040122,Ashton Jeanty,Ashton,Jeanty,A.Jeanty,Ashton,RB,RB,68.0,208.0,Mountain West Conference,2025,2025,LV,ACT,ACT,Active,0,A,2025.0,1.0,6.0,LV
+00-0036322,Justin Jefferson,Justin,Jefferson,J.Jefferson,Justin,WR,WR,73.0,195.0,Southeastern Conference,2020,2025,MIN,ACT,ACT,Active,6,A,2020.0,1.0,22.0,MIN
+00-0036415,Van Jefferson,Vanchii,Jefferson,V.Jefferson,Van,WR,WR,73.0,200.0,Southeastern Conference,2020,2025,TEN,ACT,ACT,Active,6,A,2020.0,2.0,57.0,LA
+00-0036259,Jauan Jennings,Bennie,Jennings,J.Jennings,Jauan,WR,WR,75.0,212.0,Southeastern Conference,2020,2025,SF,ACT,ACT,Active,5,A,2020.0,7.0,217.0,SF
+00-0039757,Terrell Jennings,Terrell,Jennings,T.Jennings,Terrell,RB,RB,72.0,217.0,Southwestern Athletic Conference,2024,2025,NE,ACT,ACT,Active,1,A,,,,
+00-0036407,Jerry Jeudy,Jerry,Jeudy,J.Jeudy,Jerry,WR,WR,73.0,195.0,Southeastern Conference,2020,2025,CLE,ACT,ACT,Active,6,A,2020.0,1.0,15.0,DEN
+00-0026300,Josh Johnson,Joshua,Johnson,J.Johnson,Josh,QB,QB,75.0,214.0,Pioneer Football League,2008,2025,WAS,ACT,ACT,Active,11,A,,,,
+00-0036040,Juwan Johnson,Juwan,Johnson,J.Johnson,Juwan,TE,TE,76.0,231.0,Pacific Twelve Conference,2020,2025,NO,ACT,ACT,Active,6,A,,,,
+00-0040142,Kaleb Johnson,Kaleb,Johnson,K.Johnson,Kaleb,RB,RB,72.0,225.0,Big Ten Conference,2025,2025,PIT,ACT,ACT,Active,0,A,2025.0,3.0,83.0,PIT
+00-0039589,Kameron Johnson,Kameron,Johnson,K.Johnson,Kameron,WR,WR,70.0,170.0,Independent,2024,2025,TB,ACT,ACT,Active,2,A,,,,
+00-0040237,Tez Johnson,Keyonteze,Johnson,T.Johnson,Tez,WR,WR,70.0,165.0,Big Ten Conference,2025,2025,TB,ACT,ACT,Active,0,A,2025.0,7.0,235.0,TB
+00-0039021,Roschon Johnson,Roschon,Johnson,R.Johnson,Roschon,RB,RB,72.0,227.0,Big Twelve Conference,2023,2025,CHI,ACT,ACT,Active,3,A,2023.0,4.0,115.0,CHI
+00-0039847,Theo Johnson,Theodore,Johnson,T.Johnson,Theo,TE,TE,78.0,264.0,Big Ten Conference,2024,2025,NYG,ACT,ACT,Active,2,A,2024.0,4.0,107.0,NYG
+00-0035537,Ty Johnson,Ty,Johnson,T.Johnson,Ty,RB,RB,70.0,210.0,Big Ten Conference,2019,2025,BUF,ACT,ACT,Active,7,A,2019.0,6.0,186.0,DET
+00-0036427,Tyler Johnson,Tyler,Johnson,T.Johnson,Tyler,WR,WR,73.0,208.0,Big Ten Conference,2020,2025,NYJ,ACT,ACT,Active,5,A,2020.0,5.0,161.0,TB
+00-0038544,Quentin Johnston,Quentin,Johnston,Q.Johnston,Quentin,WR,WR,74.0,208.0,Big Twelve Conference,2023,2025,LAC,ACT,ACT,Active,3,A,2023.0,1.0,21.0,LAC
+00-0033293,Aaron Jones,Aaron,Jones,A.Jones,Aaron,RB,RB,69.0,208.0,Conference USA,2017,2025,MIN,ACT,ACT,Active,9,A,2017.0,5.0,182.0,GB
+00-0038576,Charlie Jones,Charlie,Jones,C.Jones,Charlie,WR,WR,72.0,190.0,Big Ten Conference,2023,2025,CIN,ACT,ACT,Active,3,A,2023.0,4.0,131.0,CIN
+00-0035710,Daniel Jones,Daniel,Jones,D.Jones,Daniel,QB,QB,77.0,230.0,Atlantic Coast Conference,2019,2025,IND,ACT,ACT,Active,7,A,2019.0,1.0,6.0,NYG
+00-0033891,Zay Jones,Isaiah,Jones,Z.Jones,Zay,WR,WR,74.0,200.0,American Athletic Conference,2017,2025,ARI,ACT,ACT,Active,9,A,2017.0,2.0,37.0,BUF
+00-0036972,Mac Jones,Michael,Jones,M.Jones,Mac,QB,QB,75.0,220.0,Southeastern Conference,2021,2025,SF,ACT,ACT,Active,5,A,2021.0,1.0,15.0,NE
+00-0040784,Quinshon Judkins,Quinshon,Judkins,Q.Judkins,Quinshon,RB,RB,72.0,219.0,Big Ten Conference,2025,2025,CLE,ACT,ACT,Active,0,A,2025.0,2.0,36.0,CLE
+00-0040058,Nick Kallerup,Nick,Kallerup,N.Kallerup,Nick,TE,TE,77.0,266.0,Big Ten Conference,2025,2025,SEA,ACT,ACT,Active,0,A,,,,
+00-0033906,Alvin Kamara,Alvin,Kamara,A.Kamara,Alvin,RB,RB,70.0,215.0,Southeastern Conference,2017,2025,NO,ACT,ACT,Active,9,A,2017.0,3.0,67.0,NO
+00-0028986,Case Keenum,Casey,Keenum,C.Keenum,Case,QB,QB,73.0,220.0,American Athletic Conference,2012,2025,CHI,ACT,ACT,Active,13,IR,,,,
+00-0030506,Travis Kelce,Travis,Kelce,T.Kelce,Travis,TE,TE,77.0,250.0,Big East,2013,2025,KC,ACT,ACT,Active,13,A,2013.0,3.0,63.0,KC
+00-0038933,Dalton Kincaid,Dalton,Kincaid,D.Kincaid,Dalton,TE,TE,75.0,240.0,Pacific Twelve Conference,2023,2025,BUF,ACT,ACT,Active,3,A,2023.0,1.0,25.0,BUF
+00-0036176,Mason Kinsey,Mason,Kinsey,M.Kinsey,Mason,WR,WR,71.0,200.0,Southern Athletic Association,2020,2025,TEN,ACT,ACT,Active,3,A,,,,
+00-0034775,Christian Kirk,Christian,Kirk,C.Kirk,Christian,WR,WR,71.0,200.0,Southeastern Conference,2018,2025,HOU,ACT,ACT,Active,8,A,2018.0,2.0,47.0,ARI
+00-0033288,George Kittle,George,Kittle,G.Kittle,George,TE,TE,76.0,250.0,Big Ten Conference,2017,2025,SF,ACT,ACT,Active,9,A,2017.0,5.0,146.0,SF
+00-0036290,Cole Kmet,Cole,Kmet,C.Kmet,Cole,TE,TE,78.0,257.0,Independent,2020,2025,CHI,ACT,ACT,Active,6,A,2020.0,2.0,43.0,CHI
+00-0037157,Bam Knight,Zonovan,Knight,Z.Knight,Zonovan,RB,RB,71.0,209.0,Atlantic Coast Conference,2022,2025,ARI,ACT,ACT,Active,3,A,,,,
+00-0035689,Dawson Knox,Dawson,Knox,D.Knox,Dawson,TE,TE,76.0,254.0,Southeastern Conference,2019,2025,BUF,ACT,ACT,Active,7,A,2019.0,3.0,96.0,BUF
+00-0038046,Charlie Kolar,Charlie,Kolar,C.Kolar,Charlie,TE,TE,78.0,265.0,Big Twelve Conference,2022,2025,BAL,ACT,ACT,Active,4,A,2022.0,4.0,128.0,BAL
+00-0033908,Cooper Kupp,Cooper,Kupp,C.Kupp,Cooper,WR,WR,74.0,205.0,Big Sky Conference,2017,2025,SEA,ACT,ACT,Active,9,A,2017.0,3.0,69.0,LA
+00-0039065,Sam LaPorta,Sam,LaPorta,S.LaPorta,Sam,TE,TE,75.0,245.0,Big Ten Conference,2023,2025,DET,ACT,ACT,Active,3,A,2023.0,2.0,34.0,DET
+00-0036358,CeeDee Lamb,Cedarian,Lamb,C.Lamb,CeeDee,WR,WR,74.0,200.0,Big Twelve Conference,2020,2025,DAL,ACT,ACT,Active,6,A,2020.0,1.0,17.0,DAL
+00-0040184,KeAndre Lambert-Smith,KeAndre,Lambert-Smith,K.Lambert-Smith,KeAndre,WR,WR,73.0,182.0,Southeastern Conference,2025,2025,LAC,ACT,ACT,Active,0,I,2025.0,5.0,158.0,LAC
+00-0037012,Trey Lance,Trey,Lance,T.Lance,Trey,QB,QB,76.0,226.0,Missouri Valley Football Conference,2021,2025,LAC,ACT,ACT,Active,5,A,2021.0,1.0,3.0,SF
+00-0040164,Jaylin Lane,Joshua,Lane,J.Lane,Jaylin,WR,WR,70.0,196.0,Atlantic Coast Conference,2025,2025,WAS,ACT,ACT,Active,0,A,2025.0,4.0,128.0,WAS
+00-0040259,Gage Larvadain,Gage,Larvadain,G.Larvadain,Gage,WR,WR,68.0,171.0,Southeastern Conference,2025,2025,CLE,ACT,ACT,Active,0,A,,,,
+00-0038564,Cameron Latu,Cameron,Latu,C.Latu,Cameron,TE,TE,77.0,244.0,Southeastern Conference,2023,2025,PHI,ACT,ACT,Active,2,A,2023.0,3.0,101.0,SF
+00-0039407,Dylan Laube,Dylan,Laube,D.Laube,Dylan,RB,RB,69.0,204.0,Colonial Athletic Association,2024,2025,LV,ACT,ACT,Active,2,A,2024.0,6.0,208.0,LV
+00-0036971,Trevor Lawrence,William,Lawrence,T.Lawrence,Trevor,QB,QB,78.0,220.0,Atlantic Coast Conference,2021,2025,JAX,ACT,ACT,Active,5,A,2021.0,1.0,1.0,JAX
+00-0034521,Allen Lazard,Allen,Lazard,A.Lazard,Allen,WR,WR,77.0,227.0,Big Twelve Conference,2018,2025,NYJ,ACT,ACT,Active,7,I,,,,
+00-0039342,Xavier Legette,Anthony,Legette,X.Legette,Xavier,WR,WR,75.0,227.0,Southeastern Conference,2024,2025,CAR,ACT,ACT,Active,2,A,2024.0,1.0,32.0,CAR
+00-0040206,Riley Leonard,Riley,Leonard,R.Leonard,Riley,QB,QB,76.0,213.0,Independent,2025,2025,IND,ACT,ACT,Active,0,A,2025.0,6.0,189.0,IND
+00-0037838,Isaiah Likely,Isaiah,Likely,I.Likely,Isaiah,TE,TE,76.0,245.0,Sun Belt Conference,2022,2025,BAL,ACT,ACT,Active,4,A,2022.0,4.0,139.0,BAL
+00-0035704,Drew Lock,Paul,Lock,D.Lock,Drew,QB,QB,76.0,228.0,Southeastern Conference,2019,2025,SEA,ACT,ACT,Active,7,A,2019.0,2.0,42.0,DEN
+00-0032211,Tyler Lockett,Tyler,Lockett,T.Lockett,Tyler,WR,WR,70.0,182.0,Big Twelve Conference,2015,2025,LV,ACT,ACT,Active,11,A,2015.0,3.0,69.0,SEA
+00-0037238,Drake London,Drake,London,D.London,Drake,WR,WR,76.0,215.0,Pacific Twelve Conference,2022,2025,ATL,ACT,ACT,Active,4,A,2022.0,1.0,8.0,ATL
+00-0037004,Hunter Long,Hunter,Long,H.Long,Hunter,TE,TE,77.0,243.0,Atlantic Coast Conference,2021,2025,JAX,ACT,ACT,Active,5,I,2021.0,3.0,81.0,MIA
+00-0036264,Jordan Love,Jordan,Love,J.Love,Jordan,QB,QB,76.0,219.0,Mountain West Conference,2020,2025,GB,ACT,ACT,Active,6,A,2020.0,1.0,26.0,GB
+00-0040126,Colston Loveland,Colston,Loveland,C.Loveland,Colston,TE,TE,78.0,241.0,Big Ten Conference,2025,2025,CHI,ACT,ACT,Active,0,A,2025.0,1.0,10.0,CHI
+00-0040241,Dominic Lovett,Dominic,Lovett,D.Lovett,Dominic,WR,WR,70.0,185.0,Southeastern Conference,2025,2025,DET,ACT,ACT,Active,0,A,2025.0,7.0,244.0,DET
+00-0038738,Hunter Luepke,Hunter,Luepke,H.Luepke,Hunter,RB,RB,73.0,238.0,Missouri Valley Football Conference,2023,2025,DAL,ACT,ACT,Active,3,A,,,,
+00-0033873,Patrick Mahomes,Patrick,Mahomes,P.Mahomes,Patrick,QB,QB,74.0,225.0,Big Twelve Conference,2017,2025,KC,ACT,ACT,Active,9,A,2017.0,1.0,10.0,KC
+00-0038394,Will Mallory,Will,Mallory,W.Mallory,Will,TE,TE,76.0,239.0,Atlantic Coast Conference,2023,2025,IND,ACT,ACT,Active,3,I,2023.0,5.0,162.0,IND
+00-0031484,Chris Manhertz,Christopher,Manhertz,C.Manhertz,Chris,TE,TE,78.0,235.0,NO FOOTBALL,2015,2025,NYG,ACT,ACT,Active,10,A,,,,
+00-0032268,Marcus Mariota,Marcus,Mariota,M.Mariota,Marcus,QB,QB,76.0,222.0,Pacific Twelve Conference,2015,2025,WAS,ACT,ACT,Active,11,A,2015.0,1.0,2.0,TEN
+00-0040583,Woody Marks,Jo'Quavious,Marks,W.Marks,Woody,RB,RB,70.0,208.0,Big Ten Conference,2025,2025,HOU,ACT,ACT,Active,0,A,2025.0,4.0,116.0,HOU
+00-0039648,David Martin-Robinson,David,Martin-Robinson,D.Martin-Robinson,David,TE,TE,75.0,247.0,American Athletic Conference,2024,2025,TEN,ACT,ACT,Active,2,A,,,,
+00-0038658,Adrian Martinez,Adrian,Martinez,A.Martinez,Adrian,QB,QB,74.0,220.0,Big Twelve Conference,2024,2025,SF,ACT,ACT,Active,1,,,,,
+00-0037525,Jordan Mason,Jordan,Mason,J.Mason,Jordan,RB,RB,71.0,230.0,Atlantic Coast Conference,2022,2025,MIN,ACT,ACT,Active,4,A,,,,
+00-0039851,Drake Maye,Drake,Maye,D.Maye,Drake,QB,QB,76.0,225.0,Atlantic Coast Conference,2024,2025,NE,ACT,ACT,Active,2,A,2024.0,1.0,3.0,NE
+00-0039066,Michael Mayer,Michael,Mayer,M.Mayer,Michael,TE,TE,76.0,256.0,Independent,2023,2025,LV,ACT,ACT,Active,3,A,2023.0,2.0,35.0,LV
+00-0034855,Baker Mayfield,Baker,Mayfield,B.Mayfield,Baker,QB,QB,73.0,215.0,Big Twelve Conference,2018,2025,TB,ACT,ACT,Active,8,A,2018.0,1.0,1.0,CLE
+00-0037744,Trey McBride,Trey,McBride,T.McBride,Trey,TE,TE,76.0,246.0,Mountain West Conference,2022,2025,ARI,ACT,ACT,Active,4,A,2022.0,2.0,55.0,ARI
+00-0033280,Christian McCaffrey,Christian,McCaffrey,C.McCaffrey,Christian,RB,RB,71.0,210.0,Pacific Twelve Conference,2017,2025,SF,ACT,ACT,Active,9,A,2017.0,1.0,8.0,CAR
+00-0039923,J.J. McCarthy,Jonathan,McCarthy,J.McCarthy,J.J.,QB,QB,75.0,219.0,Big Ten Conference,2024,2025,MIN,ACT,ACT,Active,2,A,2024.0,1.0,10.0,MIN
+00-0039915,Ladd McConkey,Andrew,McConkey,L.McConkey,Ladd,WR,WR,72.0,185.0,Southeastern Conference,2024,2025,LAC,ACT,ACT,Active,2,A,2024.0,2.0,34.0,LAC
+00-0038400,Tanner McKee,Tanner,McKee,T.McKee,Tanner,QB,QB,78.0,230.0,Pacific Twelve Conference,2023,2025,PHI,ACT,ACT,Active,3,A,2023.0,6.0,188.0,PHI
+00-0038794,Jaleel McLaughlin,Jaleel,McLaughlin,J.McLaughlin,Jaleel,RB,RB,67.0,187.0,Missouri Valley Football Conference,2023,2025,DEN,ACT,ACT,Inactive,3,I,,,,
+00-0035659,Terry McLaurin,Terry,McLaurin,T.McLaurin,Terry,WR,WR,72.0,210.0,Big Ten Conference,2019,2025,WAS,ACT,ACT,Active,7,I,2019.0,3.0,76.0,WAS
+00-0040124,Tetairoa McMillan,Tetairoa,McMillan,T.McMillan,Tetairoa,WR,WR,77.0,212.0,Big Twelve Conference,2025,2025,CAR,ACT,ACT,Active,0,A,2025.0,1.0,8.0,CAR
+00-0033955,Jeremy McNichols,Jeremy,McNichols,J.McNichols,Jeremy,RB,RB,69.0,205.0,Mountain West Conference,2017,2025,WAS,ACT,ACT,Active,5,A,2017.0,5.0,162.0,TB
+00-0040211,Graham Mertz,Graham,Mertz,G.Mertz,Graham,QB,QB,74.0,216.0,Southeastern Conference,2025,2025,HOU,ACT,ACT,Active,0,,2025.0,6.0,197.0,HOU
+00-0035640,DK Metcalf,DeKaylin,Metcalf,D.Metcalf,DK,WR,WR,76.0,229.0,Southeastern Conference,2019,2025,PIT,ACT,ACT,Active,7,A,2019.0,2.0,64.0,SEA
+00-0037614,John Metchie III,John,Metchie,J.Metchie,John,WR,WR,72.0,195.0,Southeastern Conference,2022,2025,NYJ,ACT,ACT,Active,3,A,2022.0,2.0,44.0,HOU
+00-0034960,Jakobi Meyers,Jakobi,Meyers,J.Meyers,Jakobi,WR,WR,73.0,193.0,Atlantic Coast Conference,2019,2025,JAX,ACT,ACT,Active,7,A,,,,
+00-0038824,Ryan Miller,Ryan,Miller,R.Miller,Ryan,WR,WR,74.0,221.0,Southern Conference,2023,2025,TB,ACT,ACT,Active,2,A,,,,
+00-0035298,Scott Miller,Scott,Miller,S.Miller,Scott,WR,WR,69.0,174.0,Mid-American Conference,2019,2025,PIT,ACT,ACT,Active,7,I,2019.0,6.0,208.0,TB
+00-0036898,Davis Mills,Davis,Mills,D.Mills,Davis,QB,QB,76.0,225.0,Pacific Twelve Conference,2021,2025,HOU,ACT,ACT,Active,5,A,2021.0,3.0,67.0,HOU
+00-0040673,Jalen Milroe,Jalen,Milroe,J.Milroe,Jalen,QB,QB,74.0,216.0,Southeastern Conference,2025,2025,SEA,ACT,ACT,Active,0,I,2025.0,3.0,92.0,SEA
+00-0039398,Joe Milton III,Joe,Milton,J.Milton,Joe,QB,QB,77.0,246.0,Southeastern Conference,2024,2025,DAL,ACT,ACT,Active,2,A,2024.0,6.0,193.0,NE
+00-0038976,Marvin Mims Jr.,Marvin,Mims,M.Mims,Marvin,WR,WR,71.0,182.0,Big Twelve Conference,2023,2025,DEN,ACT,ACT,Inactive,3,I,2023.0,2.0,63.0,DEN
+00-0039062,Jonathan Mingo,Jonathan,Mingo,J.Mingo,Jonathan,WR,WR,74.0,225.0,Southeastern Conference,2023,2025,DAL,ACT,ACT,Active,3,A,2023.0,2.0,39.0,CAR
+00-0035289,Gardner Minshew,Gardner,Minshew,G.Minshew,Gardner,QB,QB,73.0,225.0,Pacific Twelve Conference,2019,2025,KC,ACT,ACT,Active,7,A,2019.0,6.0,178.0,JAX
+00-0039890,Adonai Mitchell,Adonai,Mitchell,A.Mitchell,Adonai,WR,WR,74.0,205.0,Big Twelve Conference,2024,2025,NYJ,ACT,ACT,Active,2,I,2024.0,2.0,52.0,IND
+00-0036567,Elijah Mitchell,Elijah,Mitchell,E.Mitchell,Elijah,RB,RB,70.0,200.0,Sun Belt Conference,2021,2025,KC,ACT,ACT,Active,5,IR,2021.0,6.0,194.0,SF
+00-0037282,James Mitchell,James,Mitchell,J.Mitchell,James,TE,TE,76.0,249.0,Atlantic Coast Conference,2022,2025,CAR,ACT,ACT,Active,3,I,2022.0,5.0,177.0,DET
+00-0038454,Keaton Mitchell,Keaton,Mitchell,K.Mitchell,Keaton,RB,RB,68.0,191.0,American Athletic Conference,2023,2025,BAL,ACT,ACT,Active,3,A,,,,
+00-0037340,Zaire Mitchell-Paden,Zaire,Mitchell-Paden,Z.Mitchell-Paden,Zaire,TE,TE,77.0,257.0,Conference USA,2022,2025,NO,ACT,ACT,Active,1,A,,,,
+00-0040236,Kyle Monangai,Kyle,Monangai,K.Monangai,Kyle,RB,RB,68.0,207.0,Big Ten Conference,2025,2025,CHI,ACT,ACT,Active,0,A,2025.0,7.0,233.0,CHI
+00-0035685,David Montgomery,David,Montgomery,D.Montgomery,David,RB,RB,71.0,230.0,Big Twelve Conference,2019,2025,DET,ACT,ACT,Active,7,A,2019.0,3.0,73.0,CHI
+00-0036309,Darnell Mooney,Darnell,Mooney,D.Mooney,Darnell,WR,WR,71.0,180.0,American Athletic Conference,2020,2025,ATL,ACT,ACT,Active,6,A,2020.0,5.0,173.0,CHI
+00-0032398,Chris Moore,Christopher,Moore,C.Moore,Chris,WR,WR,73.0,200.0,American Athletic Conference,2016,2025,WAS,ACT,ACT,Active,9,A,2016.0,4.0,107.0,BAL
+00-0034827,DJ Moore,Denniston,Moore,,,WR,WR,72.0,213.0,,2018,2025,CHI,ACT,,,8,A,2018.0,1.0,24.0,CAR
+00-0036980,Elijah Moore,Elijah,Moore,E.Moore,Elijah,WR,WR,70.0,180.0,Southeastern Conference,2021,2025,BUF,ACT,ACT,Active,5,A,2021.0,2.0,34.0,NYJ
+00-0038090,Skyy Moore,Skyy,Moore,S.Moore,Skyy,WR,WR,70.0,195.0,Mid-American Conference,2022,2025,SF,ACT,ACT,Active,4,A,2022.0,2.0,54.0,KC
+00-0034981,Foster Moreau,Foster,Moreau,F.Moreau,Foster,TE,TE,76.0,250.0,Southeastern Conference,2019,2025,NO,ACT,ACT,Active,7,A,2019.0,4.0,137.0,LV
+00-0036590,Quintin Morris,Quintin,Morris,Q.Morris,Quintin,TE,TE,74.0,243.0,Mid-American Conference,2021,2025,JAX,ACT,ACT,Active,4,A,,,,
+00-0031687,Raheem Mostert,Dominique,Mostert,R.Mostert,Raheem,RB,RB,70.0,212.0,Big Ten Conference,2015,2025,LV,ACT,ACT,Active,11,A,,,,
+00-0033319,Nick Mullens,Nicholas,Mullens,N.Mullens,Nick,QB,QB,73.0,210.0,Conference USA,2017,2025,JAX,ACT,ACT,Active,7,A,,,,
+00-0040590,Konata Mumpfield,Konata,Mumpfield,K.Mumpfield,Konata,WR,WR,73.0,185.0,Atlantic Coast Conference,2025,2025,LA,ACT,ACT,Active,0,A,2025.0,7.0,242.0,LA
+00-0033246,Johnny Mundt,John,Mundt,J.Mundt,Johnny,TE,TE,76.0,243.0,Pacific Twelve Conference,2017,2025,JAX,ACT,ACT,Active,8,A,,,,
+00-0039144,Luke Musgrave,Luke,Musgrave,L.Musgrave,Luke,TE,TE,78.0,253.0,Pacific Twelve Conference,2023,2025,GB,ACT,ACT,Active,3,A,2023.0,2.0,42.0,GB
+00-0039075,Puka Nacua,Puka,Nacua,P.Nacua,Puka,WR,WR,74.0,212.0,Independent,2023,2025,LA,ACT,ACT,Active,3,A,2023.0,5.0,177.0,LA
+00-0037291,Jalen Nailor,Jalen,Nailor,J.Nailor,Jalen,WR,WR,71.0,199.0,Big Ten Conference,2022,2025,MIN,ACT,ACT,Active,4,A,2022.0,6.0,191.0,MIN
+00-0040202,Devin Neal,Devin,Neal,D.Neal,Devin,RB,RB,71.0,213.0,Big Twelve Conference,2025,2025,NO,ACT,ACT,Active,0,A,2025.0,6.0,184.0,NO
+00-0039732,Bo Nix,Bo,Nix,B.Nix,Bo,QB,QB,74.0,217.0,Pacific Twelve Conference,2024,2025,DEN,ACT,ACT,Active,2,A,2024.0,1.0,12.0,DEN
+00-0033885,David Njoku,Chief,Njoku,D.Njoku,David,TE,TE,76.0,246.0,Atlantic Coast Conference,2017,2025,CLE,ACT,ACT,Active,9,A,2017.0,1.0,29.0,CLE
+00-0040138,Jaylin Noel,Jaylin,Noel,J.Noel,Jaylin,WR,WR,71.0,200.0,Big Twelve Conference,2025,2025,HOU,ACT,ACT,Active,0,A,2025.0,3.0,79.0,HOU
+00-0036842,Kene Nwangwu,Kene,Nwangwu,K.Nwangwu,Kene,RB,RB,73.0,210.0,Big Twelve Conference,2021,2025,NYJ,ACT,ACT,Active,5,A,2021.0,4.0,119.0,MIN
+00-0039919,Rome Odunze,Rome,Odunze,R.Odunze,Rome,WR,WR,75.0,215.0,Pacific Twelve Conference,2024,2025,CHI,ACT,ACT,Active,2,A,2024.0,1.0,9.0,CHI
+00-0037292,Andrew Ogletree,Andrew,Ogletree,A.Ogletree,Andrew,TE,TE,77.0,260.0,Missouri Valley Football Conference,2022,2025,IND,ACT,ACT,Active,4,A,2022.0,6.0,192.0,IND
+00-0033854,Dare Ogunbowale,Oluwadare,Ogunbowale,D.Ogunbowale,Dare,RB,RB,71.0,205.0,Big Ten Conference,2017,2025,HOU,ACT,ACT,Active,7,A,,,,
+00-0037809,Chig Okonkwo,Chigoziem,Okonkwo,C.Okonkwo,Chigoziem,TE,TE,75.0,238.0,Big Ten Conference,2022,2025,TEN,ACT,ACT,Active,4,A,2022.0,4.0,143.0,TEN
+00-0037239,Chris Olave,Chris,Olave,C.Olave,Chris,WR,WR,72.0,187.0,Big Ten Conference,2022,2025,NO,ACT,ACT,Active,4,A,2022.0,1.0,11.0,NO
+00-0039650,Bryce Oliver,Bryce,Oliver,B.Oliver,Bryce,WR,WR,73.0,214.0,Missouri Valley Football Conference,2024,2025,TEN,ACT,ACT,Active,2,A,,,,
+00-0035249,Josh Oliver,Josh,Oliver,J.Oliver,Josh,TE,TE,77.0,264.0,Mountain West Conference,2019,2025,MIN,ACT,ACT,Active,7,I,2019.0,3.0,69.0,JAX
+00-0035645,Gunner Olszewski,Gunner,Olszewski,G.Olszewski,Gunner,WR,WR,72.0,190.0,Northern Sun Intercollegiate Conference,2019,2025,NYG,ACT,ACT,Active,7,A,,,,
+00-0038129,Cade Otton,Cade,Otton,C.Otton,Cade,TE,TE,77.0,247.0,Pacific Twelve Conference,2022,2025,TB,ACT,ACT,Active,4,A,2022.0,4.0,106.0,TB
+00-0040649,Robbie Ouzts,Robbie,Ouzts,R.Ouzts,Robbie,RB,RB,75.0,274.0,Southeastern Conference,2025,2025,SEA,ACT,ACT,Active,0,A,2025.0,5.0,175.0,SEA
+00-0037197,Isiah Pacheco,Isiah,Pacheco,I.Pacheco,Isiah,RB,RB,70.0,216.0,Big Ten Conference,2022,2025,KC,ACT,ACT,Active,4,A,2022.0,7.0,251.0,KC
+00-0036988,Josh Palmer,Joshua,Palmer,J.Palmer,Josh,WR,WR,73.0,210.0,Southeastern Conference,2021,2025,BUF,ACT,ACT,Active,5,I,2021.0,3.0,77.0,LAC
+00-0036244,Colby Parkinson,Colby,Parkinson,C.Parkinson,Colby,TE,TE,79.0,265.0,Pacific Twelve Conference,2020,2025,LA,ACT,ACT,Active,6,A,2020.0,4.0,133.0,SEA
+00-0033375,Tim Patrick,Timothy,Patrick,T.Patrick,Tim,WR,WR,77.0,210.0,Pacific Twelve Conference,2017,2025,JAX,ACT,ACT,Active,8,A,,,,
+00-0039916,Ricky Pearsall,Ricky,Pearsall,R.Pearsall,Ricky,WR,WR,73.0,189.0,Southeastern Conference,2024,2025,SF,ACT,ACT,Active,2,I,2024.0,1.0,31.0,SF
+00-0039917,Michael Penix Jr.,Michael,Penix,M.Penix,Michael,QB,QB,75.0,220.0,Pacific Twelve Conference,2024,2025,ATL,ACT,ACT,Active,2,A,2024.0,1.0,8.0,ATL
+00-0033526,Samaje Perine,Samaje,Perine,S.Perine,Samaje,RB,RB,70.0,240.0,Big Twelve Conference,2017,2025,CIN,ACT,ACT,Active,9,A,2017.0,4.0,114.0,WAS
+00-0037247,George Pickens,George,Pickens,G.Pickens,George,WR,WR,75.0,200.0,Southeastern Conference,2022,2025,DAL,ACT,ACT,Active,4,A,2022.0,2.0,52.0,PIT
+00-0038102,Kenny Pickett,Kenneth,Pickett,K.Pickett,Kenny,QB,QB,75.0,220.0,Atlantic Coast Conference,2022,2025,LV,ACT,ACT,Active,4,A,2022.0,1.0,20.0,PIT
+00-0037664,Alec Pierce,Alec,Pierce,A.Pierce,Alec,WR,WR,75.0,211.0,American Athletic Conference,2022,2025,IND,ACT,ACT,Active,4,A,2022.0,2.0,53.0,IND
+00-0037258,Dameon Pierce,Dameon,Pierce,D.Pierce,Dameon,RB,RB,70.0,215.0,Southeastern Conference,2022,2025,HOU,ACT,ACT,Active,4,A,2022.0,4.0,107.0,HOU
+00-0036252,Michael Pittman,Michael,Pittman,M.Pittman,Michael,WR,WR,76.0,223.0,Pacific Twelve Conference,2020,2025,IND,ACT,ACT,Active,6,A,2020.0,2.0,34.0,IND
+00-0036970,Kyle Pitts,Kyle,Pitts,K.Pitts,Kyle,TE,TE,78.0,250.0,Southeastern Conference,2021,2025,ATL,ACT,ACT,Active,5,A,2021.0,1.0,4.0,ATL
+00-0035261,Tony Pollard,Tony,Pollard,T.Pollard,Tony,RB,RB,72.0,209.0,American Athletic Conference,2019,2025,TEN,ACT,ACT,Active,7,A,2019.0,4.0,128.0,DAL
+00-0036727,Adam Prentice,Adam,Prentice,A.Prentice,Adam,RB,RB,72.0,245.0,Southeastern Conference,2021,2025,DEN,ACT,ACT,Active,5,A,,,,
+00-0033077,Dak Prescott,Rayne,Prescott,D.Prescott,Dak,QB,QB,74.0,238.0,Southeastern Conference,2016,2025,DAL,ACT,ACT,Active,10,A,2016.0,4.0,135.0,DAL
+00-0040506,Myles Price,Myles,Price,M.Price,Myles,WR,WR,69.0,183.0,Big Ten Conference,2025,2025,MIN,ACT,ACT,Active,0,A,,,,
+00-0037834,Brock Purdy,Brock,Purdy,B.Purdy,Brock,QB,QB,73.0,220.0,Big Twelve Conference,2022,2025,SF,ACT,ACT,Active,4,I,2022.0,7.0,262.0,SF
+00-0037277,Teagan Quitoriano,Teagan,Quitoriano,T.Quitoriano,Teagan,TE,TE,78.0,259.0,Pacific Twelve Conference,2022,2025,ATL,ACT,ACT,Active,4,A,2022.0,5.0,170.0,HOU
+00-0039376,Spencer Rattler,Spencer,Rattler,S.Rattler,Spencer,QB,QB,72.0,211.0,Southeastern Conference,2024,2025,NO,ACT,ACT,Active,2,A,2024.0,5.0,150.0,NO
+00-0032464,Kalif Raymond,Kalif,Raymond,K.Raymond,Kalif,WR,WR,68.0,180.0,Patriot League,2016,2025,DET,ACT,ACT,Active,9,A,,,,
+00-0038519,Nikko Remigio,Nikko,Remigio,N.Remigio,Nikko,WR,WR,69.0,187.0,Mountain West Conference,2023,2025,KC,ACT,ACT,Active,1,A,,,,
+00-0034983,Hunter Renfrow,Hunter,Renfrow,H.Renfrow,Hunter,WR,WR,70.0,185.0,Atlantic Coast Conference,2019,2025,CAR,ACT,ACT,Active,6,I,2019.0,5.0,149.0,LV
+00-0035567,Craig Reynolds,Craig,Reynolds,C.Reynolds,Craig,RB,RB,71.0,216.0,Pennsylvania State Athletic Conference,2019,2025,DET,ACT,ACT,Active,6,A,,,,
+00-0039067,Rashee Rice,Rashee,Rice,R.Rice,Rashee,WR,WR,73.0,203.0,American Athletic Conference,2023,2025,KC,ACT,ACT,Active,3,A,2023.0,2.0,55.0,KC
+00-0034837,Calvin Ridley,Calvin,Ridley,C.Ridley,Calvin,WR,WR,73.0,190.0,Southeastern Conference,2018,2025,TEN,ACT,ACT,Active,7,A,2018.0,1.0,26.0,ATL
+00-0037557,Ronnie Rivers,Ronnie,Rivers,R.Rivers,Ronnie,RB,RB,69.0,192.0,Mountain West Conference,2022,2025,LA,ACT,ACT,Active,4,A,,,,
+00-0038542,Bijan Robinson,Bijan,Robinson,B.Robinson,Bijan,RB,RB,71.0,215.0,Big Twelve Conference,2023,2025,ATL,ACT,ACT,Active,3,A,2023.0,1.0,8.0,ATL
+00-0037746,Brian Robinson,Brian,Robinson,B.Robinson,Brian,RB,RB,73.0,225.0,Southeastern Conference,2022,2025,SF,ACT,ACT,Active,2,A,2022.0,3.0,98.0,WAS
+00-0032775,Demarcus Robinson,Demarcus,Robinson,D.Robinson,Demarcus,WR,WR,73.0,203.0,Southeastern Conference,2016,2025,SF,ACT,ACT,Active,10,A,2016.0,4.0,126.0,KC
+00-0038117,Wan'Dale Robinson,Wan'Dale,Robinson,W.Robinson,Wan'Dale,WR,WR,68.0,185.0,Southeastern Conference,2022,2025,NYG,ACT,ACT,Active,4,A,2022.0,2.0,43.0,NYG
+00-0023459,Aaron Rodgers,Aaron,Rodgers,A.Rodgers,Aaron,QB,QB,74.0,223.0,Pacific Ten Conference,2005,2025,PIT,ACT,ACT,Active,21,A,2005.0,1.0,24.0,GB
+00-0038611,Chris Rodriguez Jr.,Chris,Rodriguez,C.Rodriguez,Chris,RB,RB,71.0,224.0,Southeastern Conference,2023,2025,WAS,ACT,ACT,Active,3,A,2023.0,6.0,193.0,WAS
+00-0040646,Jalen Royals,Jalen,Royals,J.Royals,Jalen,WR,WR,72.0,195.0,Mountain West Conference,2025,2025,KC,ACT,ACT,Active,0,A,2025.0,4.0,133.0,KC
+00-0039489,Hayden Rucci,Hayden,Rucci,H.Rucci,Hayden,TE,TE,77.0,247.0,Big Ten Conference,2024,2025,MIA,ACT,ACT,Active,1,A,,,,
+00-0037805,Jeremy Ruckert,Jeremy,Ruckert,J.Ruckert,Jeremy,TE,TE,77.0,250.0,Big Ten Conference,2022,2025,NYJ,ACT,ACT,Active,4,A,2022.0,3.0,101.0,NYJ
+00-0034771,Mason Rudolph,Brett,Rudolph,M.Rudolph,Mason,QB,QB,77.0,235.0,Big Twelve Conference,2018,2025,PIT,ACT,ACT,Active,8,A,2018.0,3.0,76.0,PIT
+00-0040488,Carter Runyon,Carter,Runyon,C.Runyon,Carter,TE,TE,76.0,246.0,Colonial Athletic Association,2025,2025,LV,ACT,ACT,Inactive,0,,,,,
+00-0033662,Cooper Rush,Cooper,Rush,C.Rush,Cooper,QB,QB,75.0,225.0,Mid-American Conference,2017,2025,BAL,ACT,ACT,Active,8,I,,,,
+00-0035631,Drew Sample,Drew,Sample,D.Sample,Drew,TE,TE,77.0,260.0,Pacific Twelve Conference,2019,2025,CIN,ACT,ACT,Active,7,A,2019.0,2.0,52.0,CIN
+00-0040162,Dylan Sampson,Dylan,Sampson,D.Sampson,Dylan,RB,RB,68.0,201.0,Southeastern Conference,2025,2025,CLE,ACT,ACT,Active,0,A,2025.0,4.0,126.0,CLE
+00-0033282,Curtis Samuel,Curtis,Samuel,C.Samuel,Curtis,WR,WR,71.0,195.0,Big Ten Conference,2017,2025,BUF,ACT,ACT,Active,9,A,2017.0,2.0,40.0,CAR
+00-0035719,Deebo Samuel Sr.,Tyshun,Samuel,D.Samuel,Deebo,WR,WR,72.0,215.0,Southeastern Conference,2019,2025,WAS,ACT,ACT,Active,7,A,2019.0,2.0,36.0,SF
+00-0039356,Ja'Tavion Sanders,Ja'Tavion,Sanders,J.Sanders,Ja'Tavion,TE,TE,76.0,252.0,Big Twelve Conference,2024,2025,CAR,ACT,ACT,Active,2,A,2024.0,4.0,101.0,CAR
+00-0040466,Raheim Sanders,Raheim,Sanders,R.Sanders,Raheim,RB,RB,72.0,230.0,Southeastern Conference,2025,2025,CLE,ACT,ACT,Active,0,I,,,,
+00-0040668,Shedeur Sanders,Shedeur,Sanders,S.Sanders,Shedeur,QB,QB,74.0,212.0,Big Twelve Conference,2025,2025,CLE,ACT,ACT,Active,0,,2025.0,5.0,144.0,CLE
+00-0038896,Jacob Saylors,Jacob,Saylors,J.Saylors,Jacob,RB,RB,71.0,195.0,Independent,2023,2025,DET,ACT,ACT,Active,1,I,,,,
+00-0038547,Luke Schoonmaker,Luke,Schoonmaker,L.Schoonmaker,Luke,TE,TE,77.0,250.0,Big Ten Conference,2023,2025,DAL,ACT,ACT,Active,3,A,2023.0,2.0,58.0,DAL
+00-0039703,Cody Schrader,Cody,Schrader,C.Schrader,Cody,RB,RB,69.0,214.0,Southeastern Conference,2024,2025,JAX,ACT,ACT,Active,2,A,,,,
+00-0034383,Dalton Schultz,Dalton,Schultz,D.Schultz,Dalton,TE,TE,77.0,242.0,Pacific Twelve Conference,2018,2025,HOU,ACT,ACT,Active,8,A,2018.0,4.0,137.0,DAL
+00-0038440,Zavier Scott,Zavier,Scott,Z.Scott,Zavier,RB,RB,73.0,221.0,Colonial Athletic Association,2023,2025,MIN,ACT,ACT,Active,1,A,,,,
+00-0036984,Trey Sermon,Trey,Sermon,T.Sermon,Trey,RB,RB,72.0,215.0,Big Ten Conference,2021,2025,PIT,ACT,ACT,Active,5,A,2021.0,3.0,88.0,SF
+00-0037545,Rashid Shaheed,Rashid,Shaheed,R.Shaheed,Rashid,WR,WR,72.0,180.0,Big Sky Conference,2022,2025,SEA,ACT,ACT,Active,4,A,,,,
+00-0037261,Khalil Shakir,Khalil,Shakir,K.Shakir,Khalil,WR,WR,72.0,190.0,Mountain West Conference,2022,2025,BUF,ACT,ACT,Active,4,A,2022.0,5.0,148.0,BUF
+00-0038679,Tyrell Shavers,Tyrell,Shavers,T.Shavers,Tyrell,WR,WR,76.0,211.0,Mountain West Conference,2023,2025,BUF,ACT,ACT,Active,1,A,,,,
+00-0032385,Sterling Shepard,Sterling,Shepard,S.Shepard,Sterling,WR,WR,70.0,194.0,Big Twelve Conference,2016,2025,TB,ACT,ACT,Active,10,A,2016.0,2.0,40.0,NYG
+00-0034487,Trent Sherfield,Trent,Sherfield,T.Sherfield,Trent,WR,WR,73.0,206.0,Southeastern Conference,2018,2025,DEN,ACT,ACT,Active,8,A,,,,
+00-0039746,Will Shipley,William,Shipley,W.Shipley,Will,RB,RB,71.0,210.0,Atlantic Coast Conference,2024,2025,PHI,ACT,ACT,Active,2,A,2024.0,4.0,127.0,PHI
+00-0040743,Tyler Shough,Tyler,Shough,T.Shough,Tyler,QB,QB,77.0,219.0,Atlantic Coast Conference,2025,2025,NO,ACT,ACT,Active,0,A,2025.0,2.0,40.0,NO
+00-0035359,David Sills,David,Sills,D.Sills,David,WR,WR,75.0,211.0,Big Twelve Conference,2019,2025,ATL,ACT,ACT,Active,3,A,,,,
+00-0038809,Ben Sims,Ben,Sims,B.Sims,Ben,TE,TE,77.0,250.0,Big Twelve Conference,2023,2025,MIN,ACT,ACT,Active,3,A,,,,
+00-0035250,Devin Singletary,Devin,Singletary,D.Singletary,Devin,RB,RB,67.0,203.0,Conference USA,2019,2025,NYG,ACT,ACT,Active,7,A,2019.0,3.0,74.0,BUF
+00-0039912,Ben Sinnott,Ben,Sinnott,B.Sinnott,Ben,TE,TE,76.0,245.0,Big Twelve Conference,2024,2025,WAS,ACT,ACT,Active,2,A,2024.0,2.0,53.0,WAS
+00-0036862,Ben Skowronek,Bennett,Skowronek,B.Skowronek,Ben,WR,WR,75.0,224.0,Independent,2021,2025,PIT,ACT,ACT,Active,5,A,2021.0,7.0,249.0,LA
+00-0035535,Darius Slayton,Darius,Slayton,D.Slayton,Darius,WR,WR,73.0,198.0,Southeastern Conference,2019,2025,NYG,ACT,ACT,Active,7,A,2019.0,5.0,171.0,NYG
+00-0039577,Kedon Slovis,Kedon,Slovis,K.Slovis,Kedon,QB,QB,74.0,223.0,Big Twelve Conference,2024,2025,ARI,ACT,ACT,Active,1,A,,,,
+00-0037475,Stone Smartt,Stone,Smartt,S.Smartt,Stone,TE,TE,76.0,226.0,Sun Belt Conference,2022,2025,NYJ,ACT,ACT,Active,4,A,,,,
+00-0040582,Arian Smith,Arian,Smith,A.Smith,Arian,WR,WR,72.0,179.0,Southeastern Conference,2025,2025,NYJ,ACT,ACT,Active,0,A,2025.0,4.0,110.0,NYJ
+00-0040078,Brashard Smith,Brashard,Smith,B.Smith,Brashard,RB,RB,70.0,196.0,Atlantic Coast Conference,2025,2025,KC,ACT,ACT,Active,0,A,2025.0,7.0,228.0,KC
+00-0036912,DeVonta Smith,DeVonta,Smith,D.Smith,DeVonta,WR,WR,72.0,170.0,Southeastern Conference,2021,2025,PHI,ACT,ACT,Active,5,A,2021.0,1.0,10.0,PHI
+00-0030565,Geno Smith,Eugene,Smith,G.Smith,Geno,QB,QB,75.0,221.0,Big Twelve Conference,2013,2025,LV,ACT,ACT,Active,13,A,2013.0,2.0,39.0,NYJ
+00-0033858,Jonnu Smith,Jonnu,Smith,J.Smith,Jonnu,TE,TE,75.0,248.0,Conference USA,2017,2025,PIT,ACT,ACT,Active,9,A,2017.0,3.0,100.0,TEN
+00-0038359,Xavier Smith,Xavier,Smith,X.Smith,Xavier,WR,WR,69.0,176.0,Southwestern Athletic Conference,2023,2025,LA,ACT,ACT,Active,2,A,,,,
+00-0038543,Jaxon Smith-Njigba,Jaxon,Smith-Njigba,J.Smith-Njigba,Jaxon,WR,WR,72.0,197.0,Big Ten Conference,2023,2025,SEA,ACT,ACT,Active,3,A,2023.0,1.0,20.0,SEA
+00-0033857,JuJu Smith-Schuster,John,Smith-Schuster,J.Smith-Schuster,JuJu,WR,WR,73.0,215.0,Pacific Twelve Conference,2017,2025,KC,ACT,ACT,Active,9,A,2017.0,2.0,62.0,PIT
+00-0034798,Durham Smythe,Durham,Smythe,D.Smythe,Durham,TE,TE,76.0,248.0,Independent,2018,2025,CHI,ACT,ACT,Active,8,A,2018.0,4.0,123.0,MIA
+00-0039530,Brevyn Spann-Ford,Brevyn,Spann-Ford,B.Spann-Ford,Brevyn,TE,TE,79.0,270.0,Big Ten Conference,2024,2025,DAL,ACT,ACT,Active,2,A,,,,
+00-0039032,Tyjae Spears,Tyjae,Spears,T.Spears,Tyjae,RB,RB,71.0,195.0,American Athletic Conference,2023,2025,TEN,ACT,ACT,Active,3,A,2023.0,3.0,81.0,TEN
+00-0036963,Amon-Ra St. Brown,Amon-Ra,St. Brown,A.St. Brown,Amon-Ra,WR,WR,72.0,202.0,Pacific Twelve Conference,2021,2025,DET,ACT,ACT,Active,5,A,2021.0,4.0,112.0,DET
+00-0026498,Matthew Stafford,John,Stafford,M.Stafford,Matthew,QB,QB,75.0,214.0,Southeastern Conference,2009,2025,LA,ACT,ACT,Active,17,A,2009.0,1.0,1.0,DET
+00-0036875,Rhamondre Stevenson,Rhamondre,Stevenson,R.Stevenson,Rhamondre,RB,RB,72.0,227.0,Big Twelve Conference,2021,2025,NE,ACT,ACT,Active,5,I,2021.0,4.0,120.0,NE
+00-0035264,Jarrett Stidham,Jarrett,Stidham,J.Stidham,Jarrett,QB,QB,75.0,215.0,Southeastern Conference,2019,2025,DEN,ACT,ACT,Active,6,A,2019.0,4.0,133.0,NE
+00-0036741,Jack Stoll,Jack,Stoll,J.Stoll,Jack,TE,TE,76.0,247.0,Big Ten Conference,2021,2025,NO,ACT,ACT,Active,5,I,,,,
+00-0039163,C.J. Stroud,Coleridge,Stroud,C.Stroud,C.J.,QB,QB,75.0,218.0,Big Ten Conference,2023,2025,HOU,ACT,ACT,Active,3,I,2023.0,1.0,2.0,HOU
+00-0034348,Courtland Sutton,Courtland,Sutton,C.Sutton,Courtland,WR,WR,76.0,216.0,American Athletic Conference,2018,2025,DEN,ACT,ACT,Active,8,A,2018.0,2.0,40.0,DEN
+00-0036275,D'Andre Swift,D'Andre,Swift,D.Swift,D'Andre,RB,RB,68.0,204.0,Southeastern Conference,2020,2025,CHI,ACT,ACT,Active,6,A,2020.0,2.0,35.0,DET
+00-0036212,Tua Tagovailoa,Tuanigamanuolepola,Tagovailoa,T.Tagovailoa,Tua,QB,QB,73.0,225.0,Southeastern Conference,2020,2025,MIA,ACT,ACT,Active,6,A,2020.0,1.0,5.0,MIA
+00-0036223,Jonathan Taylor,Jonathan,Taylor,J.Taylor,Jonathan,RB,RB,70.0,226.0,Big Ten Conference,2020,2025,IND,ACT,ACT,Active,6,A,2020.0,2.0,41.0,IND
+00-0040736,Mason Taylor,Mason,Taylor,M.Taylor,Mason,TE,TE,77.0,251.0,Southeastern Conference,2025,2025,NYJ,ACT,ACT,Active,0,A,2025.0,2.0,42.0,NYJ
+00-0028118,Tyrod Taylor,Tyrod,Taylor,T.Taylor,Tyrod,QB,QB,73.0,217.0,Atlantic Coast Conference,2011,2025,NYJ,ACT,ACT,Active,15,A,2011.0,6.0,180.0,BAL
+00-0040669,Isaac TeSlaa,Isaac,TeSlaa,I.TeSlaa,Isaac,WR,WR,76.0,214.0,Southeastern Conference,2025,2025,DET,ACT,ACT,Active,0,A,2025.0,3.0,70.0,DET
+00-0030035,Adam Thielen,Adam,Thielen,A.Thielen,Adam,WR,WR,74.0,200.0,Northern Sun Intercollegiate Conference,2013,2025,MIN,ACT,ACT,Active,12,A,,,,
+00-0039893,Brian Thomas Jr.,Brian,Thomas,B.Thomas,Brian,WR,WR,74.0,209.0,Southeastern Conference,2024,2025,JAX,ACT,ACT,Active,2,I,2024.0,1.0,23.0,JAX
+00-0034365,Ian Thomas,Ian,Thomas,I.Thomas,Ian,TE,TE,75.0,253.0,Big Ten Conference,2018,2025,LV,ACT,ACT,Active,8,A,2018.0,4.0,101.0,CAR
+00-0040581,Dont'e Thornton Jr.,Dont'e,Thornton,D.Thornton,Dont'e,WR,WR,77.0,205.0,Southeastern Conference,2025,2025,LV,ACT,ACT,Active,0,A,2025.0,4.0,108.0,LV
+00-0038104,Tyquan Thornton,Tyquan,Thornton,T.Thornton,Tyquan,WR,WR,74.0,185.0,Big Twelve Conference,2022,2025,KC,ACT,ACT,Active,4,A,2022.0,2.0,50.0,NE
+00-0039379,Jamari Thrash,Jamari,Thrash,J.Thrash,Jamari,WR,WR,72.0,190.0,Atlantic Coast Conference,2024,2025,CLE,ACT,ACT,Active,2,A,2024.0,5.0,156.0,CLE
+00-0038979,Cedric Tillman,Cedric,Tillman,C.Tillman,Cedric,WR,WR,75.0,215.0,Southeastern Conference,2023,2025,CLE,ACT,ACT,Active,3,A,2023.0,3.0,74.0,CLE
+00-0038839,Mitchell Tinsley,Mitchell,Tinsley,M.Tinsley,Mitchell,WR,WR,73.0,205.0,Big Ten Conference,2023,2025,CIN,ACT,ACT,Active,2,A,,,,
+00-0039623,Mason Tipton,Mason,Tipton,M.Tipton,Mason,WR,WR,71.0,187.0,Ivy League,2024,2025,NO,ACT,ACT,Active,2,A,,,,
+00-0037666,Jalen Tolbert,Jalen,Tolbert,J.Tolbert,Jalen,WR,WR,73.0,195.0,Sun Belt Conference,2022,2025,DAL,ACT,ACT,Active,4,A,2022.0,3.0,88.0,DAL
+00-0037112,Jake Tonges,Jake,Tonges,J.Tonges,Jake,TE,TE,76.0,240.0,Pacific Twelve Conference,2022,2025,SF,ACT,ACT,Active,3,A,,,,
+00-0033757,Robert Tonyan,Robert,Tonyan,R.Tonyan,Robert,TE,TE,77.0,240.0,Missouri Valley Football Conference,2017,2025,KC,ACT,ACT,Active,7,A,,,,
+00-0039384,Tyrone Tracy Jr.,Tyrone,Tracy,T.Tracy,Tyrone,RB,RB,71.0,210.0,Big Ten Conference,2024,2025,NYG,ACT,ACT,Active,2,A,2024.0,5.0,166.0,NYG
+00-0036841,Austin Trammell,Stephen,Trammell,A.Trammell,Austin,WR,WR,70.0,185.0,Conference USA,2021,2025,JAX,ACT,ACT,Active,3,A,,,,
+00-0036422,Adam Trautman,Adam,Trautman,A.Trautman,Adam,TE,TE,77.0,253.0,Pioneer Football League,2020,2025,DEN,ACT,ACT,Active,6,A,2020.0,3.0,105.0,NO
+00-0032951,Laquon Treadwell,Laquon,Treadwell,L.Treadwell,Laquon,WR,WR,74.0,215.0,Southeastern Conference,2016,2025,IND,ACT,ACT,Active,9,A,2016.0,1.0,23.0,MIN
+00-0038840,Brycen Tremayne,Brycen,Tremayne,B.Tremayne,Brycen,WR,WR,76.0,212.0,Pacific Twelve Conference,2023,2025,CAR,ACT,ACT,Active,1,I,,,,
+00-0037005,Tommy Tremble,Tommy,Tremble,T.Tremble,Tommy,TE,TE,76.0,250.0,Independent,2021,2025,CAR,ACT,ACT,Active,5,A,2021.0,3.0,83.0,CAR
+00-0033869,Mitchell Trubisky,Mitchell,Trubisky,M.Trubisky,Mitchell,QB,QB,74.0,222.0,Atlantic Coast Conference,2017,2025,BUF,ACT,ACT,Active,9,A,2017.0,1.0,2.0,CHI
+00-0038951,Sean Tucker,Sean,Tucker,S.Tucker,Sean,RB,RB,70.0,205.0,Atlantic Coast Conference,2023,2025,TB,ACT,ACT,Active,3,A,,,,
+00-0038563,Tre Tucker,Tre,Tucker,T.Tucker,Tre,WR,WR,68.0,182.0,American Athletic Conference,2023,2025,LV,ACT,ACT,Active,3,A,2023.0,3.0,100.0,LV
+00-0037801,KaVontae Turpin,KaVontae,Turpin,K.Turpin,Kavontae,WR,WR,69.0,153.0,Big Twelve Conference,2022,2025,DAL,ACT,ACT,Active,4,A,,,,
+00-0040719,Bhayshul Tuten,Bhayshul,Tuten,B.Tuten,Bhayshul,RB,RB,69.0,209.0,Atlantic Coast Conference,2025,2025,JAX,ACT,ACT,Active,0,A,2025.0,4.0,104.0,JAX
+00-0039364,Sione Vaki,Sione,Vaki,S.Vaki,Sione,RB,RB,71.0,216.0,Pacific Twelve Conference,2024,2025,DET,ACT,ACT,Active,2,A,2024.0,4.0,132.0,DET
+00-0039424,Devaughn Vele,Devaughn,Vele,D.Vele,Devaughn,WR,WR,77.0,210.0,Pacific Twelve Conference,2024,2025,NO,ACT,ACT,Active,2,A,2024.0,7.0,235.0,DEN
+00-0039391,Kimani Vidal,Kimani,Vidal,K.Vidal,Kimani,RB,RB,68.0,215.0,Sun Belt Conference,2024,2025,LAC,ACT,ACT,Active,2,A,2024.0,6.0,181.0,LAC
+00-0036613,Jaylen Waddle,Jaylen,Waddle,J.Waddle,Jaylen,WR,WR,70.0,185.0,Southeastern Conference,2021,2025,MIA,ACT,ACT,Active,5,A,2021.0,1.0,6.0,MIA
+00-0039792,Devontez Walker,Devontez,Walker,D.Walker,Devontez,WR,WR,73.0,198.0,Atlantic Coast Conference,2024,2025,BAL,ACT,ACT,Active,2,I,2024.0,4.0,113.0,BAL
+00-0040277,Jahdae Walker,Jahdae,Walker,J.Walker,Jahdae,WR,WR,75.0,206.0,Southeastern Conference,2025,2025,CHI,ACT,ACT,Active,0,I,,,,
+00-0038134,Kenneth Walker III,Kenneth,Walker,K.Walker,Kenneth,RB,RB,69.0,211.0,Big Ten Conference,2022,2025,SEA,ACT,ACT,Active,4,,2022.0,2.0,41.0,SEA
+00-0036630,Tylan Wallace,Tylan,Wallace,T.Wallace,Tylan,WR,WR,71.0,200.0,Big Twelve Conference,2021,2025,BAL,ACT,ACT,Active,5,A,2021.0,4.0,131.0,BAL
+00-0040676,Cam Ward,Cameron,Ward,C.Ward,Cameron,QB,QB,74.0,219.0,Atlantic Coast Conference,2025,2025,TEN,ACT,ACT,Active,0,A,2025.0,1.0,1.0,TEN
+00-0037228,Jaylen Warren,Derrell,Warren,J.Warren,Jaylen,RB,RB,68.0,215.0,Big Twelve Conference,2022,2025,PIT,ACT,ACT,Active,4,A,,,,
+00-0040128,Tyler Warren,Tyler,Warren,T.Warren,Tyler,TE,TE,78.0,256.0,Big Ten Conference,2025,2025,IND,ACT,ACT,Active,0,A,2025.0,1.0,14.0,IND
+00-0039394,Casey Washington,Casey,Washington,C.Washington,Casey,WR,WR,72.0,205.0,Big Ten Conference,2024,2025,ATL,ACT,ACT,Active,2,A,2024.0,6.0,187.0,ATL
+00-0038606,Parker Washington,Christopher,Washington,P.Washington,Parker,WR,WR,70.0,204.0,Big Ten Conference,2023,2025,JAX,ACT,ACT,Active,3,A,2023.0,6.0,185.0,JAX
+00-0038558,Darnell Washington,Darnell,Washington,D.Washington,Darnell,TE,TE,79.0,265.0,Southeastern Conference,2023,2025,PIT,ACT,ACT,Active,3,A,2023.0,3.0,93.0,PIT
+00-0039880,Malik Washington,Malik,Washington,M.Washington,Malik,WR,WR,68.0,195.0,Atlantic Coast Conference,2024,2025,MIA,ACT,ACT,Active,2,A,2024.0,6.0,184.0,MIA
+00-0039884,Tahj Washington,Tahj,Washington,T.Washington,Tahj,WR,WR,70.0,175.0,Pacific Twelve Conference,2024,2025,MIA,ACT,ACT,Active,2,A,2024.0,7.0,241.0,MIA
+00-0040172,Jordan Watkins,Jordan,Watkins,J.Watkins,Jordan,WR,WR,71.0,196.0,Southeastern Conference,2025,2025,SF,ACT,ACT,Active,0,A,2025.0,4.0,138.0,SF
+00-0038124,Christian Watson,Christian,Watson,C.Watson,Christian,WR,WR,76.0,208.0,Missouri Valley Football Conference,2022,2025,GB,ACT,ACT,Active,4,A,2022.0,2.0,34.0,GB
+00-0039521,Xavier Weaver,Xavier,Weaver,X.Weaver,Xavier,WR,WR,73.0,185.0,Pacific Twelve Conference,2024,2025,ARI,ACT,ACT,Active,2,I,,,,
+00-0036182,Nick Westbrook-Ikhine,Nick,Westbrook-Ikhine,N.Westbrook-Ikhine,Nick,WR,WR,74.0,211.0,Big Ten Conference,2020,2025,MIA,ACT,ACT,Active,6,A,,,,
+00-0040075,LaJohntay Wester,LaJohntay,Wester,L.Wester,LaJohntay,WR,WR,69.0,170.0,Big Twelve Conference,2025,2025,BAL,ACT,ACT,Active,0,A,2025.0,6.0,203.0,BAL
+00-0039305,Jack Westover,Jack,Westover,J.Westover,Jack,TE,TE,74.0,245.0,Big Ten Conference,2024,2025,NE,ACT,ACT,Active,1,A,,,,
+00-0035891,Cody White,Cody,White,C.White,Cody,WR,WR,75.0,227.0,Big Ten Conference,2020,2025,SEA,ACT,ACT,Active,4,,,,,
+00-0037256,Rachaad White,Rachaad,White,R.White,Rachaad,RB,RB,72.0,214.0,Pacific Twelve Conference,2022,2025,TB,ACT,ACT,Active,4,A,2022.0,3.0,91.0,TB
+00-0038040,Zamir White,Zamir,White,Z.White,Zamir,RB,RB,71.0,227.0,Southeastern Conference,2022,2025,LV,ACT,ACT,Inactive,4,I,2022.0,4.0,122.0,LV
+00-0038710,Blake Whiteheart,Blake,Whiteheart,B.Whiteheart,Blake,TE,TE,76.0,250.0,Atlantic Coast Conference,2023,2025,CLE,ACT,ACT,Active,3,A,,,,
+00-0039751,Jordan Whittington,Jordan,Whittington,J.Whittington,Jordan,WR,WR,73.0,202.0,Big Twelve Conference,2024,2025,LA,ACT,ACT,Active,2,A,2024.0,6.0,213.0,LA
+00-0038589,Josh Whyle,Josh,Whyle,J.Whyle,Josh,TE,TE,79.0,248.0,American Athletic Conference,2023,2025,GB,ACT,ACT,Active,3,A,2023.0,5.0,147.0,TEN
+00-0038393,Dontayvion Wicks,Dontayvion,Wicks,D.Wicks,Dontayvion,WR,WR,73.0,206.0,Atlantic Coast Conference,2023,2025,GB,ACT,ACT,Active,3,A,2023.0,5.0,159.0,GB
+00-0039824,Jared Wiley,Jared,Wiley,J.Wiley,Jared,TE,TE,78.0,249.0,Big Twelve Conference,2024,2025,KC,ACT,ACT,Active,2,A,2024.0,4.0,131.0,KC
+00-0039918,Caleb Williams,Caleb,Williams,C.Williams,Caleb,QB,QB,73.0,226.0,Pacific Twelve Conference,2024,2025,CHI,ACT,ACT,Active,2,A,2024.0,1.0,1.0,CHI
+00-0039451,Isaiah Williams,Isaiah,Williams,I.Williams,Isaiah,WR,WR,70.0,185.0,Big Ten Conference,2024,2025,NYJ,ACT,ACT,Active,2,A,,,,
+00-0037240,Jameson Williams,Jameson,Williams,J.Williams,Jameson,WR,WR,73.0,180.0,Southeastern Conference,2022,2025,DET,ACT,ACT,Active,4,A,2022.0,1.0,12.0,DET
+00-0036997,Javonte Williams,Javonte,Williams,J.Williams,Javonte,RB,RB,70.0,220.0,Atlantic Coast Conference,2021,2025,DAL,ACT,ACT,Active,5,A,2021.0,2.0,35.0,DEN
+00-0040429,Josh Williams,Josh,Williams,J.Williams,Josh,RB,RB,68.0,210.0,Southeastern Conference,2025,2025,TB,ACT,ACT,Active,0,A,,,,
+00-0040534,Ke'Shawn Williams,Ke'Shawn,Williams,K.Williams,Ke'Shawn,WR,WR,69.0,186.0,Big Ten Conference,2025,2025,PIT,ACT,ACT,Active,0,,,,,
+00-0040131,Kyle Williams,Kyle,Williams,K.Williams,Kyle,WR,WR,71.0,190.0,Pacific Twelve Conference,2025,2025,NE,ACT,ACT,Active,0,A,2025.0,3.0,69.0,NE
+00-0037840,Kyren Williams,Kyren,Williams,K.Williams,Kyren,RB,RB,69.0,202.0,Independent,2022,2025,LA,ACT,ACT,Active,4,A,2022.0,5.0,164.0,LA
+00-0040009,Savion Williams,Savion,Williams,S.Williams,Savion,WR,WR,76.0,222.0,Big Twelve Conference,2025,2025,GB,ACT,ACT,Active,0,A,2025.0,3.0,87.0,GB
+00-0038128,Malik Willis,Malik,Willis,M.Willis,Malik,QB,QB,73.0,225.0,Independent,2022,2025,GB,ACT,ACT,Active,4,A,2022.0,3.0,86.0,TEN
+00-0034418,Cedrick Wilson Jr.,Cedrick,Wilson,,,WR,WR,74.0,197.0,,2018,2025,MIA,ACT,,,8,A,2018.0,6.0,208.0,DAL
+00-0038797,Emanuel Wilson,Emanuel,Wilson,E.Wilson,Emanuel,RB,RB,71.0,226.0,Southern Intercollegiate Athletic Conference,2023,2025,GB,ACT,ACT,Active,3,A,,,,
+00-0037740,Garrett Wilson,Garrett,Wilson,G.Wilson,Garrett,WR,WR,72.0,183.0,Big Ten Conference,2022,2025,NYJ,ACT,ACT,Active,4,A,2022.0,1.0,10.0,NYJ
+00-0038559,Michael Wilson,Michael,Wilson,M.Wilson,Michael,WR,WR,74.0,213.0,Pacific Twelve Conference,2023,2025,ARI,ACT,ACT,Active,3,A,2023.0,3.0,94.0,ARI
+00-0039739,Roman Wilson,Roman,Wilson,R.Wilson,Roman,WR,WR,70.0,186.0,Big Ten Conference,2024,2025,PIT,ACT,ACT,Active,2,A,2024.0,3.0,84.0,PIT
+00-0029263,Russell Wilson,Russell,Wilson,R.Wilson,Russell,QB,QB,71.0,206.0,Big Ten Conference,2012,2025,NYG,ACT,ACT,Active,14,A,2012.0,3.0,75.0,SEA
+00-0037013,Zach Wilson,Zachary,Wilson,Z.Wilson,Zach,QB,QB,74.0,214.0,Independent,2021,2025,MIA,ACT,ACT,Active,5,A,2021.0,1.0,2.0,NYJ
+00-0031503,Jameis Winston,Jameis,Winston,J.Winston,Jameis,QB,QB,76.0,231.0,Atlantic Coast Conference,2015,2025,NYG,ACT,ACT,Active,11,A,2015.0,1.0,1.0,TB
+00-0036429,Charlie Woerner,Charles,Woerner,C.Woerner,Charlie,TE,TE,77.0,250.0,Southeastern Conference,2020,2025,ATL,ACT,ACT,Active,6,A,2020.0,6.0,190.0,SF
+00-0037755,Jelani Woods,Jelani,Woods,J.Woods,Jelani,TE,TE,79.0,253.0,Atlantic Coast Conference,2022,2025,NYJ,ACT,ACT,Active,4,I,2022.0,3.0,73.0,IND
+00-0039894,Xavier Worthy,Xavier,Worthy,X.Worthy,Xavier,WR,WR,71.0,165.0,Big Twelve Conference,2024,2025,KC,ACT,ACT,Active,2,A,2024.0,1.0,28.0,KC
+00-0036754,Brock Wright,Brock,Wright,B.Wright,Brock,TE,TE,77.0,254.0,Independent,2021,2025,DET,ACT,ACT,Active,5,A,,,,
+00-0039874,Jaylen Wright,Jaylen,Wright,J.Wright,Jaylen,RB,RB,70.0,208.0,Southeastern Conference,2024,2025,MIA,ACT,ACT,Active,2,A,2024.0,4.0,120.0,MIA
+00-0039686,Colson Yankoff,Colson,Yankoff,C.Yankoff,Colson,TE,TE,76.0,225.0,Pacific Twelve Conference,2024,2025,WAS,ACT,ACT,Active,2,A,,,,
+00-0039150,Bryce Young,Bryce,Young,B.Young,Bryce,QB,QB,70.0,204.0,Southeastern Conference,2023,2025,CAR,ACT,ACT,Active,3,A,2023.0,1.0,1.0,CAR
+00-0040509,Ben Yurosek,Benjamin,Yurosek,B.Yurosek,Ben,TE,TE,76.0,251.0,Southeastern Conference,2025,2025,MIN,ACT,ACT,Active,0,A,,,,
+00-0035208,Olamide Zaccheaus,Olamide,Zaccheaus,O.Zaccheaus,Olamide,WR,WR,68.0,199.0,Atlantic Coast Conference,2019,2025,CHI,ACT,ACT,Active,7,A,,,,

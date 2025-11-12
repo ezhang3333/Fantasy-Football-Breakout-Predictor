@@ -154,22 +154,30 @@ class NFLReadExtractor:
         schedules = nfl_rp.load_schedules(self.current_season).to_pandas()
         return schedules.reindex(columns=self.keep["schedules"])
 
+    # load_rosters is a better version of load_players
     def load_players(self):
         players = nfl_rp.load_players().to_pandas()
+        players = players[
+            (players['position'].isin(self.default_positions)) &
+            (players['last_season'] == self.current_season) & 
+            (players['status'] == 'ACT')]
         return players.reindex(columns=self.keep["players"])
 
     def load_rosters(self):
         rosters = nfl_rp.load_rosters(self.current_season).to_pandas()
         return rosters.reindex(columns=self.keep["rosters"])
 
+    # for now dont use this either because its so large data set
     def load_rosters_weekly(self):
         rosters_weekly = nfl_rp.load_rosters_weekly(self.current_season).to_pandas()
         return rosters_weekly.reindex(columns=self.keep["rosters_weekly"])
 
+    # probably cross reference this with one of the load_players or load_rosters 
     def load_snap_counts(self):
         snap_counts = nfl_rp.load_snap_counts(self.current_season).to_pandas()
         return snap_counts.reindex(columns=self.keep["snap_counts"])
 
+    # this is weekly by the way
     def load_nextgen_stats(self):
         frames = []
         for cat, key in [("passing","nextgen_passing"),
@@ -181,6 +189,7 @@ class NFLReadExtractor:
             frames.append(d)
         return pd.concat(frames, ignore_index=True)
 
+    # weekly and has a bunch of stats i aint never heard of
     def load_ff_opportunity(self):
         ff_opportunity = nfl_rp.load_ff_opportunity(self.current_season, "weekly", "latest").to_pandas()
         return ff_opportunity.reindex(columns=self.keep["ff_opportunity"])
