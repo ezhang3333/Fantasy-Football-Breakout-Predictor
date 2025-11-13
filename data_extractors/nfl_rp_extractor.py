@@ -55,7 +55,7 @@ class NFLReadExtractor:
                 "entry_year","rookie_year","draft_club","draft_number"
             ],
             "snap_counts": [
-                "game_id","season","game_type","week","player","position","team","opponent",
+                "game_id","season","game_type","week","player", "pfr_player_id", "position","team","opponent",
                 "offense_snaps","offense_pct"
             ],
             "nextgen_passing": [
