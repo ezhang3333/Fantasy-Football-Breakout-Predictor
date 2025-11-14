@@ -21,4 +21,5 @@ df = raw_data['player_stats']
 # for testing the cleaner
 cleaner = NFLReadCleaner(raw_data)
 merged = cleaner.merge_data_to_player_weeks()
+#print(merged.columns)
 merged.to_csv('./data_cleaners/data/data.csv', index=False)

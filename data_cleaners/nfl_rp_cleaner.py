@@ -86,7 +86,7 @@ class NFLReadCleaner:
         )
 
         merged = home_merge.combine_first(away_merge)
-        merged = merged.drop(columns=['team_home', 'team_away'], errors='ignore')
+        merged = merged.drop(columns=['team_home', 'team_away', 'player_id', 'player_gsis_id', 'player'], errors='ignore')
         return merged
 
     def fill_missing_values(self):
@@ -97,3 +97,27 @@ class NFLReadCleaner:
 
     def build_final_data(self):
         return None
+    
+['draft_number', 'avg_time_to_throw', 'avg_intended_air_yards', 'aggressiveness', 
+ 'avg_air_yards_to_sticks', 'completion_percentage_above_expectation', 'max_air_distance',
+'efficiency', 'percent_attempts_gte_eight_defenders', 'rush_yards',
+'rush_yards_over_expected_per_att', 'avg_cushion', 'avg_separation',
+'percent_share_of_intended_air_yards', 'catch_percentage',
+'avg_yac_above_expectation', 'player_gsis_id', 'player_id',
+'pass_attempt', 'rec_attempt', 'rush_attempt', 'pass_air_yards',
+'rec_air_yards', 'pass_completions', 'receptions', 'pass_yards_gained',
+'rec_yards_gained', 'rush_yards_gained', 'pass_touchdown',
+'rec_touchdown', 'rush_touchdown', 'pass_interception',
+'rec_fumble_lost', 'rush_fumble_lost', 'pass_yards_gained_diff',
+'rec_yards_gained_diff', 'rush_yards_gained_diff',
+'pass_touchdown_diff', 'rec_touchdown_diff', 'rush_touchdown_diff',
+'pass_attempt_team', 'rec_attempt_team', 'rush_attempt_team', 'player',
+'opponent', 'offense_snaps', 'offense_pct', 'total', 'spread_line',
+'roof', 'surface', 'temp', 'wind']
+
+"""
+NEVER FILL:
+    team, position, full_name, height, weight, gsis_id, years_exp, week
+
+
+"""
