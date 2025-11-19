@@ -151,8 +151,6 @@ class NFLReadExtractor:
             'ff_opportunity': self.load_ff_opportunity()
         }
 
-    # ---- Loaders ----
-
     def load_player_stats(self):
         player_stats = nfl_rp.load_player_stats(self.current_season, 'reg').to_pandas()
         player_stats = player_stats.reindex(columns=self.keep["player_stats"])
