@@ -3,8 +3,9 @@ import pandas as pd
 import numpy as np
 
 class QBCleaner:
-    def _init__(self, cleaned_data):
+    def _init__(self, cleaned_data, qb_def_stats):
         self.cleaned_data = cleaned_data[cleaned_data['position'] == 'QB'].copy()
+        self.qb_def_stats = qb_def_stats
         
         # just here to display the calculated stats
         self.calculated_stats = [
@@ -59,7 +60,8 @@ class QBCleaner:
         df["rush_yards_per_game"] = df["rush_yards_gained"].fillna(0)
 
 
-        # home implied = total/2 - spread/2 ; away implied = total/2 + spread/2
+        # home implied = total/2 - spread/2
+        # away implied = total/2 + spread/2
         total = df["total"].astype(float)
         spread = df["spread_line"].astype(float)
 
@@ -72,21 +74,21 @@ class QBCleaner:
             away_implied,
         )
 
-        # need to add some feature about opponent defense and fantasy points and rolling 3 week average for fantasy points
+        df["pass_defense_rank"] = self.qb_def_stats["pass_defense_ranl"].fillna(0)
+        df["pressure_rate_def"] = self.qb_def_stats["pressure_rate_def"].fillna(0)
+
+        fantasy_points = (
+            0.04 * df["pass_yards_gained"].fillna(0) +
+            0.1  * df["rush_yards_gained"].fillna(0) +
+            4.0  * df["pass_touchdown"].fillna(0) +
+            6.0  * df["rush_touchdown"].fillna(0) -
+            1.0  * df["pass_interception"].fillna(0) -
+            2.0  * df["rush_fumble_lost"].fillna(0)
+        )
+        df["fantasy_points"] = fantasy_points
 
         self.cleaned_data = df
         return df
-
-    def calculate_fantasy_points(passing_yards, rushing_yards, passing_touchdowns, rushing_touchdowns, interceptions, fumbles):
-        return (
-                0.04 * passing_yards 
-                + 0.1 * rushing_yards 
-                + 4 * passing_touchdowns 
-                + 6 * rushing_touchdowns 
-                - interceptions 
-                - 2 * fumbles
-            )
-
     
 
 

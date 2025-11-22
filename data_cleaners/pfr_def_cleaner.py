@@ -20,6 +20,7 @@ class PFRDefCleaner:
     def calculate_qb_def_stats(self):
         team = self.team_def_stats[self.calculate_stats["team_def_stats"]].copy()
         adv  = self.adv_def_stats[self.calculate_stats["adv_def_stats"]].copy()
+        adv["Prss%"] = adv["Prss%"].astype(str).str.replace("%", "", regex=False)
 
         team = team.rename(columns={"G": "G_team"})
         adv = adv.rename(columns={"G": "G_adv"})
@@ -32,22 +33,20 @@ class PFRDefCleaner:
 
         df = pd.merge(team, adv, on="Tm", how="inner")
 
-        df["def_points_per_game"] = df["PA"] / df["G_team"].clip(lower=1)
+        df["pts_allowed_per_game"] = df["PA"] / df["G_team"].clip(lower=1)
 
         att_safe = df["Att"].fillna(0).clip(lower=1)
-        df["def_pass_yds_per_att"] = df["Yds"].fillna(0) / att_safe
+        df["pass_yds_allowed_per_att"] = df["Yds"].fillna(0) / att_safe
+        df["pass_td_rate_allowed"] = df["TD"].fillna(0) / att_safe
 
-        df["def_pass_td_rate"] = df["TD"].fillna(0) / att_safe
+        df["net_yds_allowed_per_att"] = df["NY/A"]
 
-        df["def_pass_nya"] = df["NY/A"]
+        df["pressure_rate_def"] = df["Prss%"]
 
-        df["def_pressure_rate"] = df["Prss%"]
-
-
-        yds_rank = df["def_pass_yds_per_att"].rank(ascending=True, method="average")
-        td_rank  = df["def_pass_td_rate"].rank(ascending=True, method="average")
-        prs_rank = df["def_pressure_rate"].rank(ascending=False, method="average")
-        pts_rank = df["def_points_per_game"].rank(ascending=True, method="average")
+        yds_rank = df["pass_yds_allowed_per_att"].rank(ascending=True, method="average")
+        td_rank  = df["pass_td_rate_allowed"].rank(ascending=True, method="average")
+        prs_rank = df["pressure_rate_def"].rank(ascending=False, method="average")
+        pts_rank = df["pts_allowed_per_game"].rank(ascending=True, method="average")
 
         composite = (
             0.4 * yds_rank +
@@ -56,17 +55,17 @@ class PFRDefCleaner:
             0.1 * pts_rank
         )
 
-        df["opponent_pass_def_rank"] = composite.rank(ascending=True, method="dense")
+        df["pass_defense_rank"] = composite.rank(ascending=True, method="dense")
 
         qb_def = df[[
             "Tm",
-            "def_points_per_game",
-            "def_pass_yds_per_att",
-            "def_pass_td_rate",
-            "def_pass_nya",
-            "def_pressure_rate",
-            "opponent_pass_def_rank",
+            "pts_allowed_per_game",
+            "pass_yds_allowed_per_att",
+            "pass_td_rate_allowed",
+            "net_yds_allowed_per_att",
+            "pressure_rate_def",
+            "pass_defense_rank",
         ]].copy()
 
         return qb_def
-    
+
