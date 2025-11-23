@@ -29,7 +29,7 @@ class NFLReadCleaner:
                 'pass_touchdown', 'rec_touchdown', 'rush_touchdown', 'pass_interception', 'rec_fumble_lost', 
                 'rush_fumble_lost', 'pass_yards_gained_diff', 'rec_yards_gained_diff', 'rush_yards_gained_diff', 
                 'pass_touchdown_diff', 'rec_touchdown_diff', 'rush_touchdown_diff', 'pass_attempt_team', 
-                'rec_attempt_team', 'rush_attempt_team'
+                'rec_attempt_team', 'rush_attempt_team' 
             ]
         }   
 
@@ -85,5 +85,5 @@ class NFLReadCleaner:
         )
 
         merged = home_merge.combine_first(away_merge)
-        merged = merged.drop(columns=['team_home', 'team_away', 'player_id', 'player_gsis_id', 'player'], errors='ignore')
+        merged = merged.drop(columns=['player_id', 'player_gsis_id', 'player'], errors='ignore')
         return merged

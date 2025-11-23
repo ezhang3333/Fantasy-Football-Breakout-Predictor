@@ -5,6 +5,7 @@ from data_cleaners.nfl_rp_cleaner import NFLReadCleaner
 from data_cleaners.pfr_def_cleaner import PFRDefCleaner
 from data_extractors.pfr_web_scraper import PFRWebScraper
 import pandas as pd
+from data_cleaners.positions.qb_cleaner import QBCleaner
 
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
@@ -23,17 +24,19 @@ raw_data = extractor.get_all_data()
 # for testing the cleaner
 cleaner = NFLReadCleaner(raw_data)
 merged = cleaner.merge_data_to_player_weeks()
-#print(merged.columns)
-merged.to_csv('./data_cleaners/data/data.csv', index=False)
+merged.to_csv('./data_cleaners/data/merged_data.csv', index=False)
 
-# hi = PFRWebScraper()
-# tuple = hi.scrape_team_def_stats()
-# team_def_stats = tuple[0]
-# adv_def_stats = tuple[1]
+hi = PFRWebScraper()
+tuple = hi.scrape_team_def_stats()
+team_def_stats = tuple[0]
+adv_def_stats = tuple[1]
 # # tuple[0].to_csv('data/team_def_stats.csv', index=False)
 # # tuple[1].to_csv('data/adv_def_stats.csv', index=False)
 # # print(team_def_stats.columns)
 # # print(adv_def_stats.columns)
-# DefCleaner = PFRDefCleaner(team_def_stats=team_def_stats, adv_def_stats=adv_def_stats)
-# def_ranking = DefCleaner.calculate_qb_def_stats()
-# print(def_ranking)
+DefCleaner = PFRDefCleaner(team_def_stats=team_def_stats, adv_def_stats=adv_def_stats)
+qb_def_stats = DefCleaner.calculate_qb_def_stats()
+
+qb = QBCleaner(merged, qb_def_stats)
+qb_calculated_stats = qb.create_calculated_stats()
+qb_calculated_stats.to_csv('data_cleaners/data/qb_data.csv', index=False)
