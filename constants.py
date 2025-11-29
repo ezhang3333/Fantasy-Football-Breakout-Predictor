@@ -30,5 +30,7 @@ TEAM_NAME_TO_ABBR = {
     "Seattle Seahawks": "SEA",
     "Tampa Bay Buccaneers": "TB",
     "Tennessee Titans": "TEN",
-    "Washington Commanders": "WAS",   # or "WSH" depending what you use
+    "Washington Commanders": "WAS",
 }
+
+ESPN_SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"

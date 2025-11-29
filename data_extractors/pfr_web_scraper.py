@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from data_cleaners.pfr_def_cleaner import PFRDefCleaner
+from services.espn_api import get_current_season
 import time
 
 """
@@ -25,8 +26,7 @@ adv_def_stats : [
 """
 class PFRWebScraper:
     def __init__(self):
-        # TODO: create get current season function
-        self.year = 2025
+        self.year = get_current_season()
 
     def scrape_team_def_stats(self):
         pfr_team_def_url = f'https://www.pro-football-reference.com/years/{self.year}/opp.htm#all_team_stats'

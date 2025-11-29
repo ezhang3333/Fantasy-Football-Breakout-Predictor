@@ -1,10 +1,10 @@
-
+from services.espn_api import get_current_season
 import pandas as pd
 import numpy as np
 
 class PFRDefCleaner:
     def __init__(self, team_def_stats, adv_def_stats):
-        self.year = 2025
+        self.year = get_current_season()
         self.team_def_stats = team_def_stats
         self.adv_def_stats = adv_def_stats
 

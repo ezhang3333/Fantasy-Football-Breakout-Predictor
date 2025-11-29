@@ -6,6 +6,7 @@ from data_cleaners.pfr_def_cleaner import PFRDefCleaner
 from data_extractors.pfr_web_scraper import PFRWebScraper
 import pandas as pd
 from data_cleaners.positions.qb_cleaner import QBCleaner
+from finalized_datasets.qb_finalized_dataset import QBFinalizedDataset
 
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
