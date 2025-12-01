@@ -34,3 +34,43 @@ TEAM_NAME_TO_ABBR = {
 }
 
 ESPN_SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"
+
+qb_calculated_stats = [
+    "air_yards_per_att",
+    "yards_per_att",
+    "td_rate",
+    "int_rate",
+    "fantasy_per_att",
+    "delta_attempts",
+    "delta_air_yards",
+    "delta_cpoe",
+
+    "attempts_3wk_avg",
+    "attempts_7wk_avg",
+    "attempts_trend_3v7",
+
+    "air_yards_3wk_avg",
+    "air_yards_7wk_avg",
+    "air_yards_trend_3v7",
+
+    "rush_td_rate",
+    "rush_yards_per_game",
+    "rush_yards_3wk_avg",
+    "rush_yards_7wk_avg",
+    "rush_trend_3v7",
+
+    "team_implied_points",
+    "pass_defense_rank",
+    "pressure_rate_def",
+
+    "fantasy_points",
+    "fantasy_3wk_avg",
+    "fantasy_7wk_avg",
+    "fantasy_trend_3v7",
+
+    "is_rookie",
+    "is_second_year",
+    "years_exp",
+    "draft_number",
+    "is_undrafted",
+]

@@ -39,5 +39,9 @@ DefCleaner = PFRDefCleaner(team_def_stats=team_def_stats, adv_def_stats=adv_def_
 qb_def_stats = DefCleaner.calculate_qb_def_stats()
 
 qb = QBCleaner(merged, qb_def_stats)
-qb_calculated_stats = qb.create_calculated_stats()
-qb_calculated_stats.to_csv('data_cleaners/data/qb_data.csv', index=False)
+qb_cleaned_dataset = qb.add_calculated_stats()
+# qb_calculated_stats.to_csv('data_cleaners/data/qb_data.csv', index=False)
+
+qb_finalized = QBFinalizedDataset(qb_cleaned_dataset)
+qb_finalized_dataset = qb_finalized.extract_finalized_dataset()
+qb_finalized_dataset.to_csv('./finalized_datasets/data/qb_finalized_dataset.csv', index=False)
