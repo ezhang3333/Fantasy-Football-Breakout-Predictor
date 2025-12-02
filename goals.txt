@@ -1,3 +1,4 @@
 Goals In Priority:
-1. make sure to add name, and gsis_id when extracting the finalized qb dataset and maybe some other indeitfiers if you need
-2. Once you finish goal 1, you should be able to have the finalized dataset for the qb model so then work on thw wr,te and rb ones
+1. Read constants.py and create the rb_cleaner and wr_and_te_cleaner
+2. Make rb and wr/te finalized datasets
+3. Create gradient boosted tree model

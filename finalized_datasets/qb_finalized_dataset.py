@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
-from constants import ESPN_SCOREBOARD_URL, qb_calculated_stats
-from services.espn_api import get_current_season, get_current_week
+from constants import qb_calculated_stats
+from services.espn_api import get_current_week
 
 class QBFinalizedDataset:
     def __init__(self, qb_cleaned_dataset):
@@ -9,11 +9,13 @@ class QBFinalizedDataset:
         self.current_week = get_current_week()
 
     def extract_finalized_dataset(self):
+        identifiers = ["team", "position", "full_name", "gsis_id"]
         cleaned = self.qb_cleaned_dataset
         curr_week = self.current_week
+        all_columns_to_extract = identifiers + qb_calculated_stats
         
         if self.current_week == 1:
-            return cleaned[qb_calculated_stats]
+            return cleaned[all_columns_to_extract]
         else:
             qb_cleaned_correct_weeks = cleaned[cleaned["week"].between(1, curr_week - 1)]
-            return qb_cleaned_correct_weeks[qb_calculated_stats]
+            return qb_cleaned_correct_weeks[all_columns_to_extract]
