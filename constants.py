@@ -88,15 +88,14 @@ rb_calculated_stats = [
     "touches_trend_3v7",
     "snap_share_3wk_avg",
     "snap_share_trend_3v7",
-    "fp_ppr_3wk_avg",
-    "fp_ppr_trend_3v7",
+    "fantasy_ppr_3wk_avg",
+    "fantasy_ppr_trend_3v7",
 
     # rushing efficiency
     "rush_ypc",
-    "rush_yards_over_expected_per_att",
+    "rush_yoe_per_att",
     "rush_yoe_per_game",
     "stacked_box_rate",
-    "rush_efficiency",
 
     # receiving
     "catch_rate",
@@ -107,6 +106,8 @@ rb_calculated_stats = [
     "team_implied_points",
     "is_favored",
     "abs_spread",
+
+    # opposing defense
     "def_rush_ypa_allowed",
     "def_rb_carries_allowed",
     "def_rb_receptions_allowed",
@@ -118,7 +119,7 @@ rb_calculated_stats = [
     "is_rookie",
     "is_undrafted",
     "draft_number_filled",
-]
+    ]
 
 wr_te_feature_cols = [
     # volume

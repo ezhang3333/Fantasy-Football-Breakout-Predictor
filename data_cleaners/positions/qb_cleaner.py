@@ -43,20 +43,16 @@ class QBCleaner:
         df["td_rate"] = df["pass_touchdown"] / att_safe
         df["int_rate"] = df["pass_interception"] / att_safe
 
-        passing_yards_pts = 0.04 * df["pass_yards_gained"]
-        rushing_yards_pts = 0.10 * df["rush_yards_gained"]
-        pass_tds = 4.0 * df["pass_touchdown"]
-        rush_tds = 6.0 * df["rush_touchdown"]
-        interceptions = -1.0 * df["pass_interception"]
-        fumbles = -2.0 * df["rush_fumble_lost"]
-
         df["fantasy_points"] = (
-            passing_yards_pts
-            + rushing_yards_pts
-            + pass_tds
-            + rush_tds
-            + interceptions
-            + fumbles
+            0.04 * df["pass_yards_gained"]
+            + 0.10 * df["rush_yards_gained"]
+            + 0.10 * df["rec_yards_gained"]
+            + 4.0  * df["pass_touchdown"]
+            + 6.0  * df["rush_touchdown"]
+            + 6.0  * df["rec_touchdown"]
+            - 1.0  * df["pass_interception"]
+            - 2.0  * df["rush_fumble_lost"]
+            - 2.0  * df["rec_fumble_lost"]
         )
 
         df["fantasy_per_att"] = df["fantasy_points"] / att_safe
