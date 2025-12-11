@@ -54,20 +54,20 @@ class NFLWebScraper:
 
         return team_def_stats, adv_def_stats
     
-    def cbs_scrape_team_def_stats(self):
-        cbs_def_vs_rb_stats_url = "https://www.cbssports.com/fantasy/football/stats/posvsdef/RB/ALL/avg/standard"
+    def cbs_scrape_team_def_stats(self, position):
+        cbs_def_vs_stats_url = f"https://www.cbssports.com/fantasy/football/stats/posvsdef/{position}/ALL/avg/standard"
         renamed_columns = ['Rank', 'Team', 'Rush Att', 'Rush Yds', 'Rush YPA', 'Rush TD', 'Targt', 'Recpt', 'Rec Yds', 'YPC', 'Rec TD', 'FL', 'FPTS']
 
-        response = requests.get(cbs_def_vs_rb_stats_url, timeout=15)
+        response = requests.get(cbs_def_vs_stats_url, timeout=15)
         soup = BeautifulSoup(response.text, 'lxml')
 
         table = soup.select("table.data.compact")
         html_table = str(table)
-        rb_def_df = pd.read_html(html_table)[0]
+        def_df = pd.read_html(html_table)[0]
 
-        rb_def_df = rb_def_df.iloc[3:, :]
-        rb_def_df.columns = renamed_columns
-        return rb_def_df
+        def_df = def_df.iloc[3:, :]
+        def_df.columns = renamed_columns
+        return def_df
 
 
     def extract_pfr_table(self, html, wrapper_id, table_id=None):

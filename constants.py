@@ -125,7 +125,7 @@ rb_calculated_stats = [
     "draft_number_filled",
     ]
 
-wr_and_te_calculated_stats = [
+wr_calculated_stats = [
     # receiving volume
     "targets",
     "air_yards",
@@ -170,12 +170,83 @@ wr_and_te_calculated_stats = [
     "abs_spread",
 
     # defense
-    # NEED TO DO THIS
+    "def_wr_ftps",
+    "def_wr_targets",
+    "def_wr_yards_per_target",
     
     # profile
     "years_exp_filled",
     "is_rookie",
     "is_second_year",
     "is_undrafted",
-    "draft_number_filled",
+    "draft_number_filled"
+]
+
+te_calculated_stats = [
+    # receiving volume
+    "targets",
+    "air_yards",
+    "snap_share",
+    "target_share",
+    "air_yards_share",
+    "total_touchdowns",
+    "delta_targets",
+
+    # rushing volume
+    "rush_attempts",
+    "rush_ypa",
+    "rush_share",
+
+    # trends
+    "targets_3wk_avg",
+    "targets_trend_3v7",
+    "air_yards_3wk_avg",
+    "air_yards_trend_3v7",
+    "snap_share_3wk_avg",
+    "snap_share_trend_3v7",
+    "fp_ppr_3wk_avg",
+    "fp_ppr_trend_3v7",
+    "tds_3wk_avg",
+    "tds_trend_3v7"
+    "gadget_usage_3wk_avg"
+
+    # efficiency
+    "yards_per_target",
+    "rec_td_rate",
+    "catch_rate",
+    "fp_per_target",
+    "percent_share_of_intended_air_yards",
+    "avg_separation",
+    "avg_cushion",
+    "avg_yac_above_expectation",
+    "racr",
+
+    # environment
+    "team_implied_points",
+    "is_favored",
+    "abs_spread",
+
+    # defense
+    "def_te_ftps",
+    "def_te_targets",
+    "def_te_yards_per_target",
+    
+    # profile
+    "years_exp_filled",
+    "is_rookie",
+    "is_second_year",
+    "is_undrafted",
+    "draft_number_filled"
+]
+
+cbs_def_vs_rb_stats = [
+    "def_rush_ypa_allowed", 
+    "def_rb_carries_allowed", 
+    "def_rb_receptions_allowed", 
+    "def_rb_touchdowns_allowed", 
+    "def_rb_fantasy_points_allowed"   
+]
+
+cbs_def_vs_wr_stats = [
+
 ]

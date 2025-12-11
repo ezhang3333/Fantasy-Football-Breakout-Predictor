@@ -1,22 +1,37 @@
-from data_cleaners.nfl_rp_cleaner import NFLReadCleaner
 import pandas as pd
 import numpy as np
-from constants import TEAM_NAME_TO_ABBR, wr_and_te_calculated_stats
+from constants import wr_calculated_stats
 
-class RBCleaner:
-    def __init__(self, cleaned_data, wr_def_stats):
-        self.cleaned_data = cleaned_data[cleaned_data["position"] == "WR"].copy()
+class WRCleaner:
+    def __init__(self, merged_data, wr_def_stats):
+        self.merged_data = merged_data[merged_data["position"] == "WR"].copy()
         self.wr_def_stats = wr_def_stats.copy()
-        self.calculated_stats = wr_and_te_calculated_stats
+        self.calculated_stats = wr_calculated_stats
 
     def add_calculated_stats(self):
-        df = self.cleaned_data.copy()
+        df = self.merged_data.copy()
 
         zero_fill_cols = [
+            "rush_yards_gained",
+            "rec_yards_gained",
+            "pass_yards_gained",
+            "rush_touchdown",
+            "rec_touchdown",
+            "pass_touchdown",
+            "rec_fumble_lost",
+            "rush_fumble_lost",
             "rec_attempt",
             "pass_air_yards",
             "offense_pct",
-            ""
+            "rec_attempt_team",
+            "rush_attempt",
+            "rush_attempt_team",
+            "receptions",
+            "rec_air_yards",
+            "rush_touchdown",
+            "rec_touchdown", 
+            "percentage_share_of_air_yards",
+            ""           
         ]
 
         for col in zero_fill_cols:
@@ -104,8 +119,8 @@ class RBCleaner:
         df["abs_spread"] = np.abs(team_spread)
 
         # opposing defense
-        def_wr_and_te_stats = self.wr_and_te_def_stats.set_index("team")
-        df = df.merge(def_wr_and_te_stats, left_on="team_away", right_index=True, how="left")
+        def_wr_stats = self.wr_def_stats.set_index("team")
+        df = df.merge(def_wr_stats, left_on="team_away", right_index=True, how="left")
 
         # profile
         df["years_exp_filled"] = df["years_exp"].fillna(0)
@@ -115,7 +130,15 @@ class RBCleaner:
         df["is_undrafted"] = (df["draft_number_filled"] == 275).astype(int)
 
         post_division_zero_fill_cols = [
-            # fill out
+            "delta_targets",
+            "target_share",
+            "rush_ypa",
+            "rush_share",
+            "yards_per_target",
+            "rec_td_rate",
+            "catch_rate",
+            "fp_per_target",
+            "racr"
         ]
 
         for col in post_division_zero_fill_cols:

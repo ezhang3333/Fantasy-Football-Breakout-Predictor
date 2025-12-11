@@ -10,6 +10,7 @@ from finalized_datasets.qb_finalizer import QBFinalizer
 from data_cleaners.cbs_def_cleaner import CBSDefCleaner
 from data_cleaners.positions.rb_cleaner import RBCleaner
 from finalized_datasets.rb_finalizer import RBFinalizer
+from data_cleaners.positions.wr_cleaner import WRCleaner
 
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
@@ -32,10 +33,14 @@ merged = cleaner.merge_data_to_player_weeks()
 
 hi = NFLWebScraper()
 tuple = hi.pfr_scrape_team_def_stats()
-cbs_def_stats = hi.cbs_scrape_team_def_stats()
+cbs_def_wr_stats = hi.cbs_scrape_team_def_stats("WR")
+cbs_def_rb_stats = hi.cbs_scrape_team_def_stats("RB")
+cbs_def_te_stats = hi.cbs_scrape_team_def_stats("TE")
 
-cbs = CBSDefCleaner(cbs_def_stats)
+cbs = CBSDefCleaner(cbs_def_rb_stats, cbs_def_wr_stats, cbs_def_te_stats)
 cbs_def_vs_rb_final = cbs.calculate_cbs_def_vs_rb_stats()
+cbs_def_vs_wr_final = cbs.calculate_cbs_def_vs_wr_stats()
+# print(cbs_def_vs_wr_final)
 # print(cbs_def_vs_rb_final)
 # df.to_csv('data_extractors/data/cbs_team_def.csv', index=False)
 team_def_stats = tuple[0]
@@ -53,7 +58,7 @@ qb_cleaned_dataset = qb.add_calculated_stats()
 
 qb_finalized = QBFinalizer(qb_cleaned_dataset)
 qb_finalized_dataset = qb_finalized.extract_finalized_dataset()
-qb_finalized_dataset.to_csv('./finalized_datasets/data/qb_finalized_dataset.csv', index=False)
+# qb_finalized_dataset.to_csv('./finalized_datasets/data/qb_finalized_dataset.csv', index=False)
 
 rb = RBCleaner(merged, cbs_def_vs_rb_final)
 rb_cleaned = rb.add_calculated_stats()
@@ -61,4 +66,8 @@ rb_cleaned = rb.add_calculated_stats()
 
 rb_finalized = RBFinalizer(rb_cleaned)
 rb_finalized_dataset = rb_finalized.extract_finalized_dataset()
-rb_finalized_dataset.to_csv('./finalized_datasets/data/rb_finalized_dataset.csv', index=False)
+# rb_finalized_dataset.to_csv('./finalized_datasets/data/rb_finalized_dataset.csv', index=False)
+
+wr = WRCleaner(merged, cbs_def_vs_wr_final)
+wr_cleaned = wr.add_calculated_stats()
+wr_cleaned.to_csv('./data_cleaners/data/wr_data.csv', index=False)

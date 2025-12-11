@@ -1,16 +1,15 @@
-from data_cleaners.nfl_rp_cleaner import NFLReadCleaner
 import pandas as pd
 import numpy as np
-from constants import TEAM_NAME_TO_ABBR, rb_calculated_stats
+from constants import rb_calculated_stats
 
 class RBCleaner:
-    def __init__(self, cleaned_data, rb_def_stats):
-        self.cleaned_data = cleaned_data[cleaned_data["position"] == "RB"].copy()
+    def __init__(self, merged_data, rb_def_stats):
+        self.merged_data = merged_data[merged_data["position"] == "RB"].copy()
         self.rb_def_stats = rb_def_stats.copy()
         self.calculated_stats = rb_calculated_stats
 
     def add_calculated_stats(self):
-        df = self.cleaned_data.copy()
+        df = self.merged_data.copy()
 
         zero_fill_cols = [
             "rec_attempt",

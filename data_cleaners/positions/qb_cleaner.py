@@ -1,16 +1,15 @@
-from data_cleaners.nfl_rp_cleaner import NFLReadCleaner
 import pandas as pd
 import numpy as np
 from constants import TEAM_NAME_TO_ABBR, qb_calculated_stats
 
 class QBCleaner:
-    def __init__(self, cleaned_data, qb_def_stats):
-        self.cleaned_data = cleaned_data[cleaned_data["position"] == "QB"].copy()
+    def __init__(self, merged_data, qb_def_stats):
+        self.merged_data = merged_data[merged_data["position"] == "QB"].copy()
         self.qb_def_stats = qb_def_stats.copy()
         self.calculated_stats = qb_calculated_stats
 
     def add_calculated_stats(self):
-        df = self.cleaned_data.copy()
+        df = self.merged_data.copy()
         df = df.sort_values(["gsis_id", "week"])
 
         zero_fill_cols = [
@@ -24,6 +23,9 @@ class QBCleaner:
             "rush_attempt",
             "rush_touchdown",
             "completion_percentage_above_expectation",
+            "rec_yards_gained",
+            "rec_touchdown",
+            "rec_fumble_lost"
         ]
 
         for col in zero_fill_cols:
@@ -176,6 +178,5 @@ class QBCleaner:
             cols_to_fill = [c for c in self.calculated_stats if c in df.columns]
             df[cols_to_fill] = df[cols_to_fill].fillna(0)
 
-        self.cleaned_data = df
         return df
 
