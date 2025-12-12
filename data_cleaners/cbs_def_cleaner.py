@@ -77,11 +77,11 @@ class CBSDefCleaner:
         te_def_df["def_te_ftps"] = te_def_df["FPTS"]
         te_def_df["def_te_targets"] = te_def_df["Targt"]
         te_def_df["def_te_yards_per_target"] = te_def_df["Rec Yds"].astype(float) / te_def_df["Targt"].astype(float)
-        te_def_df["def_te_yards_per_target"] = te_def_df["def_wr_yards_per_target"].fillna(0)
+        te_def_df["def_te_yards_per_target"] = te_def_df["def_te_yards_per_target"].fillna(0)
 
         te_def_df["TeamNickname"] = (
             te_def_df["Team"]
-            .str.replace("WR vs ", "", regex=False)
+            .str.replace("TE vs ", "", regex=False)
             .str.strip()
         )
         te_def_df["team"] = te_def_df["TeamNickname"].map(TEAM_NICK_TO_ABBR)

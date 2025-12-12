@@ -30,8 +30,10 @@ class WRCleaner:
             "rec_air_yards",
             "rush_touchdown",
             "rec_touchdown", 
-            "percentage_share_of_air_yards",
-            ""           
+            "percent_share_of_intended_air_yards",
+            "avg_separation",
+            "avg_cushion",
+            "avg_yac_above_expectation"           
         ]
 
         for col in zero_fill_cols:

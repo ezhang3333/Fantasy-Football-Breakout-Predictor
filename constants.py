@@ -158,7 +158,6 @@ wr_calculated_stats = [
     "rec_td_rate",
     "catch_rate",
     "fp_per_target",
-    "percent_share_of_intended_air_yards",
     "avg_separation",
     "avg_cushion",
     "avg_yac_above_expectation",
@@ -204,8 +203,8 @@ te_calculated_stats = [
     "air_yards_trend_3v7",
     "snap_share_3wk_avg",
     "snap_share_trend_3v7",
-    "fp_ppr_3wk_avg",
-    "fp_ppr_trend_3v7",
+    "fantasy_ppr_3wk_avg",
+    "fantasy_ppr_trend_3v7",
     "tds_3wk_avg",
     "tds_trend_3v7",
     "gadget_usage_3wk_avg",
@@ -215,7 +214,6 @@ te_calculated_stats = [
     "rec_td_rate",
     "catch_rate",
     "fp_per_target",
-    "percent_share_of_intended_air_yards",
     "avg_separation",
     "avg_cushion",
     "avg_yac_above_expectation",
@@ -248,5 +246,13 @@ cbs_def_vs_rb_stats = [
 ]
 
 cbs_def_vs_wr_stats = [
+    "def_wr_ftps",
+    "def_wr_targets",
+    "def_wr_yards_per_target"
+]
 
+cbs_def_vs_te_stats = [
+    "def_te_ftps",
+    "def_te_targets",
+    "def_te_yards_per_target"
 ]
