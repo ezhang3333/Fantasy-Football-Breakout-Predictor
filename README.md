@@ -2,6 +2,8 @@
 
 A web app that predicts NFL fantasy football performance for the next 4 weeks using per-position XGBoost regression models. It pulls weekly player and defense data from nflverse and Pro Football Reference, trains separate models for QB, RB, WR, and TE, and dispalys outputs in locally hosted dev servers.
 
+Deployed at: https://fantasy-football-tawny.vercel.app/
+
 ## Setup
 
 Clone the repo, then from the project root run:
